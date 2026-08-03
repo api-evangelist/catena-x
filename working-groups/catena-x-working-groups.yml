@@ -1,0 +1,100 @@
+generated: '2026-08-03'
+method: searched
+source: https://catena-x.net/association/expert-groups-committees/
+type: WorkingGroups
+summary:
+  committees: 10
+  expert_groups: 30
+  total: 40
+  note: >-
+    Catena-X publishes each group's remit but no membership and no chairs. Groups are listed
+    here as the body states them; the mapping from a group to the CX standards it owns is
+    given where the body itself makes the link.
+committees:
+- name: Architecture Management Committee (AMC)
+  scope: Translate business ambitions into a scalable, interoperable architecture.
+- name: Data Space Operations Committee (DSOC)
+  scope: Governance and operations — release cycles, deployment gates, cross-data-space interoperability.
+- name: Ecosystem Activation Committee
+  scope: Network activation and market-oriented optimization; target of 1,000 users globally.
+- name: Industry Core Committee
+  scope: Objectives and KIT for the Industry Core.
+  standards: [CX-0126]
+- name: Internationalization Committee
+  scope: Global expansion through regional hubs.
+- name: Network Services Committee (NSC)
+  scope: Shared network services; coordinates open-source implementations.
+- name: Sustainability Committee
+  scope: Sustainability use cases; roadmaps and requirements for PCF and DPP.
+- name: Supply Chain & Quality Committee
+  scope: Common vision and roadmap across quality and resiliency.
+- name: Technical Committee for Modelling
+  scope: Quality assurance for semantic models before standardization as Catena-X and IDTA submodel templates.
+- name: Technical Committee for Standardization (TC4S)
+  scope: Central standardization body and gatekeeper for standard candidates.
+expert_groups:
+- name: Activation Supplier Network (ASN)
+  scope: Supplier adoption through low-barrier entry points.
+- name: Asia-Pacific with focus Japan (APJ)
+  scope: Internationalization in Japan and South Korea.
+- name: Asset Chain Quality
+  scope: Standardizes exchange of quality data arising from supply chain activities.
+- name: Business Partner Data Management
+  scope: Cross-industry standard for business partner data with BPNL/S/A identifiers.
+  standards: [CX-0010, CX-0012, CX-0074, CX-0076]
+- name: Carbon Border Adjustment Mechanism (CBAM)
+  scope: Standardized, automated exchange of CBAM-relevant emissions data.
+- name: Circular Economy
+  scope: Closing material loops; supports End-of-Life Vehicle regulation compliance.
+- name: Company Certificate Management
+  scope: Standardized API and data model for exchanging company certificates.
+  standards: [CX-0135]
+- name: Data-Driven Quality Management
+  scope: Data-driven quality management across the value chain.
+- name: Dataspace Connectivity
+  scope: Interoperability and data sovereignty for participant-to-participant communication.
+  standards: [CX-0018, CX-0001]
+- name: Data Sovereignty
+  scope: Data Exchange Governance framework; translates sovereignty principles into standards.
+- name: Demand and Capacity Management (DCM)
+  scope: Maintains the DCM standard and KIT; early identification of supply bottlenecks.
+  standards: [CX-0128]
+- name: Digital Product Passport (DPP)
+  scope: Digital product passports for automotive products; circular economy and regulatory compliance.
+- name: Digital Twins
+  scope: Asset Administration Shell-based digital twin integration and interoperability.
+  standards: [CX-0002]
+- name: Due Diligence Governance
+  scope: Environmental and human rights compliance requirements within supply chains.
+- name: ECU CryptoMaterial
+  scope: Standardized exchange of cryptographic information for Electronic Control Units.
+- name: Exchange Patterns
+  scope: Reusable exchange patterns as architecture guardrails.
+- name: Legal
+  scope: Develops and maintains the legal framework, including the altitude layer model.
+- name: Masterdata & Geometry
+  scope: Cross-company engineering processes; sharing engineering and 3D master data.
+- name: Material
+  scope: Common aspect model for material data, aligned with the International Material Data System.
+- name: Material Accounting
+  scope: Methodology for tracking secondary material share.
+- name: Model-Based Systems Engineering (MBSE)
+  scope: Multi-stakeholder collaboration in vehicle development with data sovereignty preserved.
+- name: Onboarding & Offboarding
+  scope: Procedures and system-supported processes for integration and compliant exit.
+- name: PCF Interoperability and Architecture
+  scope: Technical interoperability of PCF solutions; updates the PCF exchange standard.
+- name: PCF Methodology and Verification
+  scope: The PCF rulebook; verification and certification of PCF data.
+- name: PCF Secondary Data Provisioning
+  scope: Data types, mapping rules and approximation methods for PCF reporting.
+- name: Product Approval
+  scope: Digitalizes product and production-process approval across the value chain.
+- name: PURIS
+  scope: Predictive Unit Real-Time Information Service — automating decisions on supply disruptions.
+- name: Self-Sovereign Identity (SSI)
+  scope: Vision, strategy and standards for SSI within the network.
+- name: Software
+  scope: Standardized Software Bill of Materials based on SPDX.
+- name: Tariffs
+  scope: Harmonized exchange of tariff-relevant information, aligned with U.S. Section 232 declarations.

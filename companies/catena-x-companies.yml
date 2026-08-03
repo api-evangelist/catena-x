@@ -1,0 +1,3155 @@
+generated: '2026-08-03'
+method: searched
+source:
+- https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+type: Companies
+summary:
+  companies: 197
+  as_of: 01 July 2026
+  evidence: published member list — the body asserts these organizations are members, but publishes no
+    named people and no governance seats alongside them
+  by_body:
+    Association Member: 197
+  in_network: 19
+  missing: 178
+  api_providers_in_network: 5
+  with_governance_seat: 0
+  governance_seat_in_network: 0
+  matched: '2026-08-03'
+companies:
+- name: 23 Technologies
+  key: 23technologies
+  legal_name: 23 Technologies GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: 23-technologies
+- name: 4zero-Solutions
+  key: 4zerosolutions
+  legal_name: 4zero-Solutions GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: 4zero-solutions
+- name: :em engineering methods
+  key: emengineeringmethods
+  legal_name: :em engineering methods AG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: em-engineering-methods
+- name: abat
+  key: abat
+  legal_name: abat AG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: abat
+- name: ABH
+  key: abh
+  legal_name: ABH, Inc.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: abh
+- name: Accenture
+  key: accenture
+  legal_name: Accenture GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: accenture
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: ADAC
+  key: adac
+  legal_name: ADAC e.V.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: adac
+- name: AIAG
+  key: aiag
+  legal_name: Automotive Industry Action Group (AIAG)
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: aiag
+- name: Altana Technologies
+  key: altanatechnologies
+  legal_name: Altana Technologies, Inc.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: altana-technologies
+- name: Amazon Web Services EMEA
+  key: amazonwebservicesemea
+  legal_name: Amazon Web Services EMEA SARL
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: amazon-web-services-emea
+- name: Anchore
+  key: anchore
+  legal_name: Anchore Inc.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: anchore
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Andre Niermann automotive electrical products
+  key: andreniermannautomotiveelectricalproducts
+  legal_name: Andre Niermann automotive electrical products GmbH & Co. KG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: andre-niermann-automotive-electrical-products
+- name: ARENA2036
+  key: arena2036
+  legal_name: ARENA2036 e.V.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: arena2036
+- name: Asahi Kasei Europe
+  key: asahikaseieurope
+  legal_name: Asahi Kasei Europe GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: asahi-kasei-europe
+- name: ASI DatayMyte
+  key: asidataymyte
+  legal_name: ASI DatayMyte Inc.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: asi-dataymyte
+- name: Asociación de Empresas Technológicas Innovalia
+  key: asociacindeempresastechnolgicasinnovalia
+  legal_name: Asociación de Empresas Technológicas Innovalia
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: asociaci-n-de-empresas-technol-gicas-innovalia
+- name: Asuene
+  key: asuene
+  legal_name: Asuene Inc.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: asuene
+- name: BASF
+  key: basf
+  legal_name: BASF SE
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: basf
+- name: Bechtle
+  key: bechtle
+  legal_name: Bechtle GmbH & Co. KG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: bechtle
+- name: BMW
+  key: bmw
+  legal_name: Bayerische Motoren Werke Aktiengesellschaft (BMW AG)
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: bmw
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: BNL Supplies
+  key: bnlsupplies
+  legal_name: BNL Supplies B.V.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: bnl-supplies
+- name: Brain of Materials
+  key: brainofmaterials
+  legal_name: Brain of Materials AG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: brain-of-materials
+- name: Brembo
+  key: brembo
+  legal_name: Brembo S.p.A.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: brembo
+- name: Capgemini Deutschland
+  key: capgeminideutschland
+  legal_name: Capgemini Deutschland GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: capgemini-deutschland
+- name: Carbmee
+  key: carbmee
+  legal_name: Carbmee GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: carbmee
+- name: Carbon Minds
+  key: carbonminds
+  legal_name: Carbon Minds GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: carbon-minds
+- name: CatX Service
+  key: catxservice
+  legal_name: CatX Service GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: catx-service
+- name: CCT Composite Coating Services
+  key: cctcompositecoatingservices
+  legal_name: CCT Composite Coating Services GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: cct-composite-coating-services
+- name: Celonis Deutschland
+  key: celonisdeutschland
+  legal_name: Celonis Deutschland GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: celonis-deutschland
+- name: CGI Deutschland
+  key: cgideutschland
+  legal_name: CGI Deutschland B.V. & Co. KG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: cgi-deutschland
+- name: ChainTraced
+  key: chaintraced
+  legal_name: ChainTraced AB
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: chaintraced
+- name: Chongqing Yujiang Die Casting
+  key: chongqingyujiangdiecasting
+  legal_name: Chongqing Yujiang Die Casting Co., Ltd
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: chongqing-yujiang-die-casting
+- name: Circular Solution
+  key: circularsolution
+  legal_name: Circular Solution Co., Ltd
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: circular-solution
+- name: Circularise
+  key: circularise
+  legal_name: Circularise B.V.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: circularise
+- name: CircularTree
+  key: circulartree
+  legal_name: CircularTree GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: circulartree
+- name: Circulor
+  key: circulor
+  legal_name: Circulor GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: circulor
+- name: Circunomics
+  key: circunomics
+  legal_name: Circunomics GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: circunomics
+- name: coac
+  key: coac
+  legal_name: coac GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: coac
+- name: codecentric
+  key: codecentric
+  legal_name: codecentric AG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  matched_domain: codecentric.de
+  suggested_slug: codecentric
+- name: Cofinity-X
+  key: cofinityx
+  legal_name: Cofinity-X GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: cofinity-x
+- name: Consileon Business Consultancy
+  key: consileonbusinessconsultancy
+  legal_name: Consileon Business Consultancy GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: consileon-business-consultancy
+- name: ContainerGrid
+  key: containergrid
+  legal_name: ContainerGrid GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: containergrid
+- name: Contemporary Amperex Technology
+  key: contemporaryamperextechnology
+  legal_name: Contemporary Amperex Technology GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: contemporary-amperex-technology
+- name: Continental
+  key: continental
+  legal_name: Continental AG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: continental-ag
+  in_network: true
+  is_api_provider: false
+  matched_by: derived-domain
+  matched_domain: continental.com
+- name: Conweaver
+  key: conweaver
+  legal_name: Conweaver GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: conweaver
+- name: CRU Group
+  key: crugroup
+  legal_name: CRU Group
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: cru-group
+- name: D-fine
+  key: dfine
+  legal_name: D-fine GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: d-fine
+- name: Daato Technologies
+  key: daatotechnologies
+  legal_name: Daato Technologies GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: daato-technologies
+- name: DATAbility
+  key: datability
+  legal_name: DATAbility GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: datability
+- name: Dataciders InMediasP
+  key: datacidersinmediasp
+  legal_name: Dataciders InMediasP GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: dataciders-inmediasp
+- name: DCCS
+  key: dccs
+  legal_name: DCCS GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: dccs
+- name: Deloitte Wirtschaftsprüfungsgesellschaft
+  key: deloittewirtschaftsprfungsgesellschaft
+  legal_name: Deloitte GmbH Wirtschaftsprüfungsgesellschaft
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: deloitte-wirtschaftspr-fungsgesellschaft
+- name: Denso Automotive Deutschland
+  key: densoautomotivedeutschland
+  legal_name: Denso Automotive Deutschland GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: denso-automotive-deutschland
+- name: Deutsches Zentrum für Luft und Raumfahrt
+  key: deutscheszentrumfrluftundraumfahrt
+  legal_name: Deutsches Zentrum für Luft und Raumfahrt e.V.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: deutsches-zentrum-f-r-luft-und-raumfahrt
+- name: DigiProd Pass
+  key: digiprodpass
+  legal_name: DigiProd Pass Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: digiprod-pass
+- name: dotD
+  key: dotd
+  legal_name: dotD, Inc.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: dotd
+- name: doubleSlash Net-Business
+  key: doubleslashnetbusiness
+  legal_name: doubleSlash Net-Business GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: doubleslash-net-business
+- name: DQS
+  key: dqs
+  legal_name: DQS GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: dqs
+- name: EcoVadis SAS
+  key: ecovadissas
+  legal_name: EcoVadis SAS
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ecovadis-sas
+- name: EFS Unternehmensberatung GesmbH
+  key: efsunternehmensberatunggesmbh
+  legal_name: EFS Unternehmensberatung GesmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: efs-unternehmensberatung-gesmbh
+- name: Electronic Waste Recycling s.r.o
+  key: electronicwasterecyclingsro
+  legal_name: Electronic Waste Recycling s.r.o.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: electronic-waste-recycling-s-r-o
+- name: eMoldino
+  key: emoldino
+  legal_name: eMoldino Co. Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: emoldino
+- name: Engineering AI
+  key: engineeringai
+  legal_name: Engineering AI Corporation
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: engineering-ai
+- name: Fahrzeugindustrie mbH
+  key: fahrzeugindustriembh
+  legal_name: Fahrzeugindustrie mbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: fahrzeugindustrie-mbh
+- name: Faurecia
+  key: faurecia
+  legal_name: Faurecia SE
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: faurecia
+- name: Fetch.ai Research and Development
+  key: fetchairesearchanddevelopment
+  legal_name: Fetch.ai Research and Development GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: fetch-ai-research-and-development
+- name: Flex
+  key: flex
+  legal_name: Flex Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: flex
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Ford Werke
+  key: fordwerke
+  legal_name: Ford Werke GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ford-werke
+- name: Fraunhofer Gesellschaft zur Förderung der angewandten Forschung
+  key: fraunhofergesellschaftzurfrderungderangewandtenforschung
+  legal_name: Fraunhofer Gesellschaft zur Förderung der angewandten Forschung e.V.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: fraunhofer-gesellschaft-zur-f-rderung-der-angewandten-forschung
+- name: FRED
+  key: fred
+  legal_name: FRED GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: fred
+- name: Fujitsu
+  key: fujitsu
+  legal_name: Fujitsu Limited
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: fujitsu
+- name: GALIA
+  key: galia
+  legal_name: GALIA
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: galia
+- name: GEC
+  key: gec
+  legal_name: German Edge Cloud GmbH & Co.KG (GEC)
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: gec
+- name: Gestamp Automoción
+  key: gestampautomocin
+  legal_name: Gestamp Automoción S.A.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: gestamp-automoci-n
+- name: Glassdome
+  key: glassdome
+  legal_name: Glassdome, Inc.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: glassdome
+- name: Global PCCS Private
+  key: globalpccsprivate
+  legal_name: Global PCCS Private Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: global-pccs-private
+- name: Grammer
+  key: grammer
+  legal_name: Grammer AG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: grammer
+- name: greenable
+  key: greenable
+  legal_name: greenable GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: greenable
+- name: Gris Umformtechnik
+  key: grisumformtechnik
+  legal_name: Gris Umformtechnik GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: gris-umformtechnik
+- name: Hanselmann & Compagnie
+  key: hanselmanncompagnie
+  legal_name: Hanselmann & Compagnie GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: hanselmann-and-compagnie
+- name: Henkel
+  key: henkel
+  legal_name: Henkel AG & Co. KGaA
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: henkel
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Huawei Technologies Duesseldorf
+  key: huaweitechnologiesduesseldorf
+  legal_name: Huawei Technologies Duesseldorf GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: huawei-technologies-duesseldorf
+- name: Hüngsberg
+  key: hngsberg
+  legal_name: Hüngsberg GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: h-ngsberg
+- name: IAV Ingenieursgesellschaft
+  key: iavingenieursgesellschaft
+  legal_name: IAV GmbH Ingenieursgesellschaft
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: iav-ingenieursgesellschaft
+- name: IB-comPLAN
+  key: ibcomplan
+  legal_name: IB-comPLAN
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ib-complan
+- name: IBCT
+  key: ibct
+  legal_name: IBCT Co. Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ibct
+- name: Ichnos Protocol Pte
+  key: ichnosprotocolpte
+  legal_name: Ichnos Protocol Pte. Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ichnos-protocol-pte
+- name: IDUnion SCE
+  key: idunionsce
+  legal_name: IDUnion SCE
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: idunion-sce
+- name: imds professional
+  key: imdsprofessional
+  legal_name: imds professional GmbH & Co. KG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: imds-professional
+- name: Infor (Deutschland)
+  key: infordeutschland
+  legal_name: Infor (Deutschland) GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: infor-deutschland
+- name: Ingenics
+  key: ingenics
+  legal_name: Ingenics AG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ingenics
+- name: INOVIA Solutions
+  key: inoviasolutions
+  legal_name: INOVIA Solutions
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: inovia-solutions
+- name: inpro Innovationsgesellschaft für fortgeschrittene Produktionssysteme in der
+  key: inproinnovationsgesellschaftfrfortgeschritteneproduktionssystemeinder
+  legal_name: inpro Innovationsgesellschaft für fortgeschrittene Produktionssysteme in der
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: inpro-innovationsgesellschaft-f-r-fortgeschrittene-produktionssysteme-in-der
+- name: Institution for Information Industry (III), Taiwan
+  key: institutionforinformationindustryiiitaiwan
+  legal_name: Institution for Information Industry (III), Taiwan
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: institution-for-information-industry-iii-taiwan
+- name: Integrity Next
+  key: integritynext
+  legal_name: Integrity Next GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: integrity-next
+- name: International Council on Environmental Economics and Development Union
+  key: internationalcouncilonenvironmentaleconomicsanddevelopmentunion
+  legal_name: International Council on Environmental Economics and Development Union
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: international-council-on-environmental-economics-and-development-union
+- name: INTERX
+  key: interx
+  legal_name: INTERX Co., Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: interx
+- name: iPoint-Systems
+  key: ipointsystems
+  legal_name: iPoint-Systems GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ipoint-systems
+- name: ISTOS
+  key: istos
+  legal_name: ISTOS GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: istos
+- name: ITRI
+  key: itri
+  legal_name: Industrial Technology Research Institute (ITRI)
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: itri
+- name: J. Planitzer Classic Car Service Fahrzeugtransporte
+  key: jplanitzerclassiccarservicefahrzeugtransporte
+  legal_name: J. Planitzer Classic Car Service Fahrzeugtransporte GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: j-planitzer-classic-car-service-fahrzeugtransporte
+- name: Karlsruhe Institute of Technology (KIT), Institute of Nanotechnology INT
+  key: karlsruheinstituteoftechnologykitinstituteofnanotechnologyint
+  legal_name: Karlsruhe Institute of Technology (KIT), Institute of Nanotechnology INT
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: karlsruhe-institute-of-technology-kit-institute-of-nanotechnology-int
+- name: Key Sustainability Solutions Pvt
+  key: keysustainabilitysolutionspvt
+  legal_name: Key Sustainability Solutions Pvt Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: key-sustainability-solutions-pvt
+- name: kolum
+  key: kolum
+  legal_name: kolum GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: kolum
+- name: Lisa Dräxlmaier
+  key: lisadrxlmaier
+  legal_name: Lisa Dräxlmaier GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: lisa-dr-xlmaier
+- name: LKS S.Coop
+  key: lksscoop
+  legal_name: LKS S.Coop.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: lks-s-coop
+- name: LRP Autorecycling Leipzig
+  key: lrpautorecyclingleipzig
+  legal_name: LRP Autorecycling Leipzig GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: lrp-autorecycling-leipzig
+- name: Magna International
+  key: magnainternational
+  legal_name: Magna International GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: magna-international
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Makersite
+  key: makersite
+  legal_name: Makersite GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: makersite
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: material.one
+  key: materialone
+  legal_name: material.one AG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: material-one
+- name: Materna Information & Communications
+  key: maternainformationcommunications
+  legal_name: Materna Information & Communications SE
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: materna-information-and-communications
+- name: Mavarick AI
+  key: mavarickai
+  legal_name: Mavarick AI
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: mavarick-ai
+- name: MAYGREEN Consulting
+  key: maygreenconsulting
+  legal_name: MAYGREEN Consulting GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: maygreen-consulting
+- name: MEAtec Mühendislik
+  key: meatecmhendislik
+  legal_name: MEAtec Mühendislik Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: meatec-m-hendislik
+- name: Mercedes-Benz
+  key: mercedesbenz
+  legal_name: Mercedes-Benz AG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: mercedes-benz
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Metaform Systems
+  key: metaformsystems
+  legal_name: Metaform Systems Inc.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: metaform-systems
+- name: Microsoft Deutschland
+  key: microsoftdeutschland
+  legal_name: Microsoft Deutschland GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: microsoft-deutschland
+- name: Mobility Sweden Association
+  key: mobilityswedenassociation
+  legal_name: Mobility Sweden Association AB
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: mobility-sweden-association
+- name: msg for automotive
+  key: msgforautomotive
+  legal_name: msg for automotive gmbh
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: msg-for-automotive
+- name: mts Consulting & Engineering
+  key: mtsconsultingengineering
+  legal_name: mts Consulting & Engineering GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: mts-consulting-and-engineering
+- name: Nanjing Fuchuang Intelligent Manufacturing Technology
+  key: nanjingfuchuangintelligentmanufacturingtechnology
+  legal_name: Nanjing Fuchuang Intelligent Manufacturing Technology Co., Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: nanjing-fuchuang-intelligent-manufacturing-technology
+- name: NEC
+  key: nec
+  legal_name: NEC Corporation
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: nec
+- name: Nelsen Consulting
+  key: nelsenconsulting
+  legal_name: Nelsen Consulting GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: nelsen-consulting
+- name: NQC
+  key: nqc
+  legal_name: NQC Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: nqc
+- name: NTT Communications
+  key: nttcommunications
+  legal_name: NTT Communications Corporation
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ntt-communications
+- name: o9 Solutions
+  key: o9solutions
+  legal_name: o9 Solutions, Inc
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: o9-solutions
+  in_network: true
+  is_api_provider: null
+  matched_by: name-slug
+- name: Octoplus Consulting
+  key: octoplusconsulting
+  legal_name: Octoplus Consulting
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: octoplus-consulting
+- name: OmegaLambdaTec
+  key: omegalambdatec
+  legal_name: OmegaLambdaTec GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: omegalambdatec
+- name: Onlygood Futuretech Pvt
+  key: onlygoodfuturetechpvt
+  legal_name: Onlygood Futuretech Pvt Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: onlygood-futuretech-pvt
+- name: OpenPower Technology Holdings
+  key: openpowertechnologyholdings
+  legal_name: OpenPower Technology Holdings Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: openpower-technology-holdings
+- name: Opiquad
+  key: opiquad
+  legal_name: Opiquad S.p.A.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: opiquad
+- name: orca. organizing company assets
+  key: orcaorganizingcompanyassets
+  legal_name: orca. organizing company assets GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: orca-organizing-company-assets
+- name: Pagero
+  key: pagero
+  legal_name: Pagero AB
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: pagero
+- name: PHINIA
+  key: phinia
+  legal_name: PHINIA Inc.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: phinia
+- name: PipeChain Networks
+  key: pipechainnetworks
+  legal_name: PipeChain Networks AB
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: pipechain-networks
+- name: Plateforme de la Filière Automobile
+  key: plateformedelafilireautomobile
+  legal_name: Plateforme de la Filière Automobile
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: plateforme-de-la-fili-re-automobile
+- name: Polygran
+  key: polygran
+  legal_name: Polygran GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: polygran
+- name: Possehl Digital Services
+  key: possehldigitalservices
+  legal_name: Possehl Digital Services GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: possehl-digital-services
+- name: Prewave
+  key: prewave
+  legal_name: Prewave GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: prewave
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Product Ident Group
+  key: productidentgroup
+  legal_name: Product Ident Group GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: product-ident-group
+- name: Prostep
+  key: prostep
+  legal_name: Prostep AG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: prostep
+- name: PRS Technologie Gesellschaft mbH
+  key: prstechnologiegesellschaftmbh
+  legal_name: PRS Technologie Gesellschaft mbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: prs-technologie-gesellschaft-mbh
+- name: PTW
+  key: ptw
+  legal_name: Werkzeugmaschinen (PTW)
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ptw
+- name: REGUL.AI
+  key: regulai
+  legal_name: REGUL.AI GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: regul-ai
+- name: Renault SAS
+  key: renaultsas
+  legal_name: Renault SAS
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: renault-sas
+- name: RenewEarth Lab
+  key: renewearthlab
+  legal_name: RenewEarth Lab Inc.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: renewearth-lab
+- name: Reply
+  key: reply
+  legal_name: Reply S.p.A.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: replyai
+  in_network: true
+  is_api_provider: false
+  matched_by: derived-domain
+  matched_domain: reply.ai
+- name: ReSource Sustainable Technologies
+  key: resourcesustainabletechnologies
+  legal_name: ReSource Sustainable Technologies B.V.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: resource-sustainable-technologies
+- name: Rittweger und Team
+  key: rittwegerundteam
+  legal_name: Rittweger und Team GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: rittweger-und-team
+- name: Robert Bosch
+  key: robertbosch
+  legal_name: Robert Bosch GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: robert-bosch
+- name: Rossius Consulting
+  key: rossiusconsulting
+  legal_name: Rossius Consulting
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: rossius-consulting
+- name: ROVELLE Slovakia s.r.o
+  key: rovelleslovakiasro
+  legal_name: ROVELLE Slovakia s.r.o.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: rovelle-slovakia-s-r-o
+- name: RWTH Aachen, Werkzeugmaschinenlabor WZL, Lehrstuhl für Informations-, Qualitäts
+  key: rwthaachenwerkzeugmaschinenlaborwzllehrstuhlfrinformationsqualitts
+  legal_name: RWTH Aachen, Werkzeugmaschinenlabor WZL, Lehrstuhl für Informations-, Qualitäts-
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: rwth-aachen-werkzeugmaschinenlabor-wzl-lehrstuhl-f-r-informations-qualit-ts
+- name: S-IT Application Engineering & Consulting
+  key: sitapplicationengineeringconsulting
+  legal_name: S-IT Application Engineering & Consulting GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: s-it-application-engineering-and-consulting
+- name: S1Seven
+  key: s1seven
+  legal_name: S1Seven GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: s1seven
+- name: SAP
+  key: sap
+  legal_name: SAP SE
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: sap
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Sayari Labs
+  key: sayarilabs
+  legal_name: Sayari Labs, Inc
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: sayari-labs
+- name: Schaeffler Technology
+  key: schaefflertechnology
+  legal_name: Schaeffler Technology AG & Co.KG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: schaeffler-technology
+- name: Schneider Intelligent Technology
+  key: schneiderintelligenttechnology
+  legal_name: Schneider Intelligent Technology Co., Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: schneider-intelligent-technology
+- name: Scoutbee
+  key: scoutbee
+  legal_name: Scoutbee GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: scoutbee
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Secaro Beheer
+  key: secarobeheer
+  legal_name: Secaro Beheer B.V.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: secaro-beheer
+- name: Semantic Visions s.r.o
+  key: semanticvisionssro
+  legal_name: Semantic Visions s.r.o.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: semantic-visions-s-r-o
+- name: SES RFID Solutions
+  key: sesrfidsolutions
+  legal_name: SES RFID Solutions GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ses-rfid-solutions
+- name: Shenzhen Precise Testing Technology
+  key: shenzhenprecisetestingtechnology
+  legal_name: Shenzhen Precise Testing Technology Co., Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: shenzhen-precise-testing-technology
+- name: Siemens
+  key: siemens
+  legal_name: Siemens AG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: siemens
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Smoods
+  key: smoods
+  legal_name: Smoods GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: smoods
+- name: sovity
+  key: sovity
+  legal_name: sovity GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: sovity
+- name: Sphera Solutions
+  key: spherasolutions
+  legal_name: Sphera Solutions Inc.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: sphera-solutions
+- name: Spherity
+  key: spherity
+  legal_name: Spherity GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: spherity
+- name: SPREAD
+  key: spread
+  legal_name: SPREAD GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: spread
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: SSC Services
+  key: sscservices
+  legal_name: SSC Services GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ssc-services
+- name: SupplyOn
+  key: supplyon
+  legal_name: SupplyOn AG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: supplyon
+- name: SupplyWhy_ai
+  key: supplywhyai
+  legal_name: SupplyWhy_ai
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: supplywhy-ai
+- name: Sustamize
+  key: sustamize
+  legal_name: Sustamize GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: sustamize
+- name: Suzhou Tech-D Information Technology Consulting
+  key: suzhoutechdinformationtechnologyconsulting
+  legal_name: Suzhou Tech-D Information Technology Consulting Co., Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: suzhou-tech-d-information-technology-consulting
+- name: T-Systems International
+  key: tsystemsinternational
+  legal_name: T-Systems International GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: t-systems-international
+- name: Taelim
+  key: taelim
+  legal_name: Taelim Co. Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: taelim
+- name: tec4u-Solutions
+  key: tec4usolutions
+  legal_name: tec4u-Solutions GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: tec4u-solutions
+- name: Technische Universität Darmstadt Institut für Produktionsmanagement, Technology und
+  key: technischeuniversittdarmstadtinstitutfrproduktionsmanagementtechnologyund
+  legal_name: Technische Universität Darmstadt Institut für Produktionsmanagement, Technology und
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: technische-universit-t-darmstadt-institut-f-r-produktionsmanagement-technology-und
+- name: Technovative Solutions
+  key: technovativesolutions
+  legal_name: Technovative Solutions Ltd
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: technovative-solutions
+- name: Think.iT
+  key: thinkit
+  legal_name: Think.iT GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: think-it
+- name: Threedy
+  key: threedy
+  legal_name: Threedy GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: threedy
+- name: TRUMPF
+  key: trumpf
+  legal_name: TRUMPF SE & Co. KG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: trumpf
+- name: TTMS Holdings
+  key: ttmsholdings
+  legal_name: TTMS Holdings, LLC.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ttms-holdings
+- name: TÜV SÜD Auto Service
+  key: tvsdautoservice
+  legal_name: TÜV SÜD Auto Service GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: t-v-s-d-auto-service
+- name: und Sensorsysteme in der Produktion
+  key: undsensorsystemeinderproduktion
+  legal_name: und Sensorsysteme in der Produktion
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: und-sensorsysteme-in-der-produktion
+- name: Valeo Management Services
+  key: valeomanagementservices
+  legal_name: Valeo Management Services
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: valeo-management-services
+- name: VDA
+  key: vda
+  legal_name: Verband der Automobilindustrie e.V. (VDA)
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: vda
+- name: Vinturas
+  key: vinturas
+  legal_name: Vinturas B.V.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: vinturas
+- name: Volkswagen
+  key: volkswagen
+  legal_name: Volkswagen AG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: volkswagen
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Volvo Car
+  key: volvocar
+  legal_name: Volvo Car AB
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: volvo-cars
+  in_network: true
+  is_api_provider: false
+  matched_by: fuzzy
+- name: Volvo Group Purchasing
+  key: volvogrouppurchasing
+  legal_name: Volvo Group Purchasing AB
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: volvo-group-purchasing
+- name: Wintix Technologies
+  key: wintixtechnologies
+  legal_name: Wintix Technologies Ltd.
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: wintix-technologies
+- name: Wiser Technology Solutions
+  key: wisertechnologysolutions
+  legal_name: Wiser Technology Solutions EOOD
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: wiser-technology-solutions
+- name: Yanfeng International Automotive Technology Europe
+  key: yanfenginternationalautomotivetechnologyeurope
+  legal_name: Yanfeng International Automotive Technology Europe S.à r.l. & Co. KG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: yanfeng-international-automotive-technology-europe
+- name: Zettl Automotive
+  key: zettlautomotive
+  legal_name: Zettl Automotive GmbH
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: zettl-automotive
+- name: ZF Friedrichshafen
+  key: zffriedrichshafen
+  legal_name: ZF Friedrichshafen AG
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  leadership_roles: null
+  evidence: member list
+  sources:
+  - https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  slug: zf-friedrichshafen
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug

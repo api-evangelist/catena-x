@@ -1,0 +1,679 @@
+generated: '2026-08-03'
+method: searched
+source: https://catenax-ev.github.io/sitemap.xml
+type: Taxonomy
+summary:
+  standards: 77
+  note: The CX-xxxx series is the body's own numbering of its standards. Release channels are read from
+    which versioned documentation trees each standard is published under, not from a release manifest.
+  by_release:
+    Jupiter: 65
+    Io: 64
+    Saturn: 62
+  in_current_release: 62
+  carried_into_next: 60
+  not_in_current_or_next: 9
+  not_carried_forward:
+  - CX-0008
+  - CX-0011
+  - CX-0013
+  - CX-0029
+  - CX-0030
+  - CX-0031
+  - CX-0032
+  - CX-0094
+  - CX-0139
+standards:
+- id: CX-0001
+  name: Participant Agent Registration
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0001
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0002
+  name: Digital Twins In CatenaX
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0002
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0003
+  name: SAMM Semantic Aspect Meta Model
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0003
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0005
+  name: Item Relationship Service API
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0005
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0006
+  name: Registration And Initial Onboarding
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0006
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0007
+  name: Minimal Data Provider Services Offering
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0007
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0008
+  name: Relevant Standards For Conformity Assessments
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0008
+  releases:
+  - Io
+  - Jupiter
+  in_current_release: false
+  in_next: false
+- id: CX-0009
+  name: CX Registration API
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0009
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0010
+  name: Business Partner Number
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0010
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0011
+  name: Issuing Agency
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0011
+  releases:
+  - Jupiter
+  in_current_release: false
+  in_next: false
+- id: CX-0012
+  name: Business Partner Data Pool API
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0012
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0013
+  name: Identity Of Member Companies
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0013
+  releases:
+  - Io
+  - Jupiter
+  in_current_release: false
+  in_next: false
+- id: CX-0014
+  name: Employees And Technical Users
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0014
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: false
+- id: CX-0015
+  name: IA Mand Access Control Paradigm For Users And Clients
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0015
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: false
+- id: CX-0018
+  name: Dataspace Connectivity
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0018
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0029
+  name: Product Carbon Footprint Rulebook
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0029
+  releases:
+  - Jupiter
+  in_current_release: false
+  in_next: false
+- id: CX-0030
+  name: Data Model BoM As Specified
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0030
+  releases:
+  - Io
+  - Jupiter
+  in_current_release: false
+  in_next: false
+- id: CX-0031
+  name: Data Model Material For Homologation
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0031
+  releases:
+  - Io
+  - Jupiter
+  in_current_release: false
+  in_next: false
+- id: CX-0032
+  name: Data Model Part As Specified
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0032
+  releases:
+  - Io
+  - Jupiter
+  in_current_release: false
+  in_next: false
+- id: CX-0044
+  name: ECLASS
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0044
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0045
+  name: Aspect Model Data Chain Template
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0045
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0049
+  name: DID Document Schema
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0049
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0050
+  name: Framework Agreement Credential
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0050
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0053
+  name: BPN Discovery ServiceAP Is
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0053
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0054
+  name: Application Service Release
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0054
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0055
+  name: Data Processing PatternsforIT System Integration
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0055
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0059
+  name: Use Case Behaviour Twin Endurance Predictor
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0059
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0067
+  name: Ontology Models To Realize Federated Query In CatenaX
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0067
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0074
+  name: Business Partner Gate API
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0074
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0076
+  name: Golden Record Endto End Requirements Standard
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0076
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0077
+  name: Data Quality Dashboard
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0077
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0078
+  name: Bank Data Verification Dashboard
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0078
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0079
+  name: Natural Person Screening Dashboard
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0079
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0080
+  name: BPDM Fraud Prevention Service
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0080
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0081
+  name: BPDM Country Risk
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0081
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0084
+  name: Federated Queries In Data Spaces
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0084
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0094
+  name: Aspect Model Part Site Information As Planned
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0094
+  releases:
+  - Io
+  - Jupiter
+  in_current_release: false
+  in_next: false
+- id: CX-0102
+  name: Functional
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0102
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: false
+- id: CX-0105
+  name: Asset Tracking Use Case
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0105
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0115
+  name: Manufacturing Capability Exchange
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0115
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0116
+  name: Sanction Watchlist Dashboard
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0116
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0117
+  name: Use Case Circular Economy Secondary Marketplace
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0117
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0118
+  name: Actual Delivery Information Exchange
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0118
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: false
+- id: CX-0120
+  name: Short Term Material Demand Exchange
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0120
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: false
+- id: CX-0121
+  name: Planned Production Output Exchange
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0121
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: false
+- id: CX-0122
+  name: Item Stock Exchange
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0122
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: false
+- id: CX-0123
+  name: Quality Use Case Standard
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0123
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0125
+  name: Traceability Use Case
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0125
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0126
+  name: Industry Core Part Type
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0126
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0127
+  name: Industry Core Part Instance
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0127
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0128
+  name: Demandand Capacity Management Data Exchange
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0128
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0129
+  name: Requestfor Quotation Exchange
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0129
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0131
+  name: Circularity Core
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0131
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0133
+  name: Online Controland Simulation
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0133
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0135
+  name: Company Certificate Management
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0135
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0136
+  name: Use CasePCF
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0136
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0138
+  name: Use Case Behaviour Twin Endurance Estimator
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0138
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0139
+  name: Informationasa Service External Data Provider
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0139
+  releases:
+  - Jupiter
+  in_current_release: false
+  in_next: false
+- id: CX-0141
+  name: Health Indicator Use Case
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0141
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0142
+  name: Shop Floor Information Service
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0142
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0143
+  name: Use Case Circular Economy Digital Product Passport Standard
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0143
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0144
+  name: ESS Use Case Standard
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0144
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0145
+  name: Daysofsupply Exchange
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0145
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: false
+- id: CX-0146
+  name: Supply Chain Disruption Notifications
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0146
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0149
+  name: Dataspaceidentityandidentification
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0149
+  releases:
+  - Io
+  - Jupiter
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0150
+  name: Use Case Logistics
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0150
+  releases:
+  - Io
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0151
+  name: Industry Core Basics
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0151
+  releases:
+  - Io
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0152
+  name: Policy Constrains For Data Exchange
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0152
+  releases:
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0153
+  name: Tariffs Use Case
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0153
+  releases:
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0154
+  name: Master Data Management
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0154
+  releases:
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0155
+  name: Requirements Engineering
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0155
+  releases:
+  - Saturn
+  in_current_release: true
+  in_next: true
+- id: CX-0156
+  name: Geometry
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0156
+  releases: []
+  in_current_release: false
+  in_next: true
+- id: CX-0157
+  name: PURIS
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0157
+  releases: []
+  in_current_release: false
+  in_next: true
+- id: CX-0158
+  name: CarSBOM
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0158
+  releases: []
+  in_current_release: false
+  in_next: true
+- id: CX-0159
+  name: Material
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0159
+  releases: []
+  in_current_release: false
+  in_next: true
+- id: CX-0160
+  name: Battery Passport
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0160
+  releases: []
+  in_current_release: false
+  in_next: true
+- id: CX-0161
+  name: ECU Crypto Material
+  url: https://catenax-ev.github.io/docs/next/standards/CX-0161
+  releases: []
+  in_current_release: false
+  in_next: true

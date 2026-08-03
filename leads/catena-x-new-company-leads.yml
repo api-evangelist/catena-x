@@ -1,0 +1,1255 @@
+generated: '2026-08-03'
+method: derived
+source: derived from catena-x/companies/catena-x-companies.yml
+type: Leads
+summary:
+  leads: 178
+  min_participants: 1
+  with_governance_seat: 0
+leads:
+- name: 23 Technologies
+  suggested_slug: 23-technologies
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: 4zero-Solutions
+  suggested_slug: 4zero-solutions
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: :em engineering methods
+  suggested_slug: em-engineering-methods
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: abat
+  suggested_slug: abat
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: ABH
+  suggested_slug: abh
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: ADAC
+  suggested_slug: adac
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: AIAG
+  suggested_slug: aiag
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Altana Technologies
+  suggested_slug: altana-technologies
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Amazon Web Services EMEA
+  suggested_slug: amazon-web-services-emea
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Andre Niermann automotive electrical products
+  suggested_slug: andre-niermann-automotive-electrical-products
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: ARENA2036
+  suggested_slug: arena2036
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Asahi Kasei Europe
+  suggested_slug: asahi-kasei-europe
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: ASI DatayMyte
+  suggested_slug: asi-dataymyte
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Asociación de Empresas Technológicas Innovalia
+  suggested_slug: asociaci-n-de-empresas-technol-gicas-innovalia
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Asuene
+  suggested_slug: asuene
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: BASF
+  suggested_slug: basf
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Bechtle
+  suggested_slug: bechtle
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: BNL Supplies
+  suggested_slug: bnl-supplies
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Brain of Materials
+  suggested_slug: brain-of-materials
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Brembo
+  suggested_slug: brembo
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Capgemini Deutschland
+  suggested_slug: capgemini-deutschland
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Carbmee
+  suggested_slug: carbmee
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Carbon Minds
+  suggested_slug: carbon-minds
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: CatX Service
+  suggested_slug: catx-service
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: CCT Composite Coating Services
+  suggested_slug: cct-composite-coating-services
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Celonis Deutschland
+  suggested_slug: celonis-deutschland
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: CGI Deutschland
+  suggested_slug: cgi-deutschland
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: ChainTraced
+  suggested_slug: chaintraced
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Chongqing Yujiang Die Casting
+  suggested_slug: chongqing-yujiang-die-casting
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Circular Solution
+  suggested_slug: circular-solution
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Circularise
+  suggested_slug: circularise
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: CircularTree
+  suggested_slug: circulartree
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Circulor
+  suggested_slug: circulor
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Circunomics
+  suggested_slug: circunomics
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: coac
+  suggested_slug: coac
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: codecentric
+  suggested_slug: codecentric
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Cofinity-X
+  suggested_slug: cofinity-x
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Consileon Business Consultancy
+  suggested_slug: consileon-business-consultancy
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: ContainerGrid
+  suggested_slug: containergrid
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Contemporary Amperex Technology
+  suggested_slug: contemporary-amperex-technology
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Conweaver
+  suggested_slug: conweaver
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: CRU Group
+  suggested_slug: cru-group
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: D-fine
+  suggested_slug: d-fine
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Daato Technologies
+  suggested_slug: daato-technologies
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: DATAbility
+  suggested_slug: datability
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Dataciders InMediasP
+  suggested_slug: dataciders-inmediasp
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: DCCS
+  suggested_slug: dccs
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Deloitte Wirtschaftsprüfungsgesellschaft
+  suggested_slug: deloitte-wirtschaftspr-fungsgesellschaft
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Denso Automotive Deutschland
+  suggested_slug: denso-automotive-deutschland
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Deutsches Zentrum für Luft und Raumfahrt
+  suggested_slug: deutsches-zentrum-f-r-luft-und-raumfahrt
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: DigiProd Pass
+  suggested_slug: digiprod-pass
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: dotD
+  suggested_slug: dotd
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: doubleSlash Net-Business
+  suggested_slug: doubleslash-net-business
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: DQS
+  suggested_slug: dqs
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: EcoVadis SAS
+  suggested_slug: ecovadis-sas
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: EFS Unternehmensberatung GesmbH
+  suggested_slug: efs-unternehmensberatung-gesmbh
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Electronic Waste Recycling s.r.o
+  suggested_slug: electronic-waste-recycling-s-r-o
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: eMoldino
+  suggested_slug: emoldino
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Engineering AI
+  suggested_slug: engineering-ai
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Fahrzeugindustrie mbH
+  suggested_slug: fahrzeugindustrie-mbh
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Faurecia
+  suggested_slug: faurecia
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Fetch.ai Research and Development
+  suggested_slug: fetch-ai-research-and-development
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Ford Werke
+  suggested_slug: ford-werke
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Fraunhofer Gesellschaft zur Förderung der angewandten Forschung
+  suggested_slug: fraunhofer-gesellschaft-zur-f-rderung-der-angewandten-forschung
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: FRED
+  suggested_slug: fred
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Fujitsu
+  suggested_slug: fujitsu
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: GALIA
+  suggested_slug: galia
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: GEC
+  suggested_slug: gec
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Gestamp Automoción
+  suggested_slug: gestamp-automoci-n
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Glassdome
+  suggested_slug: glassdome
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Global PCCS Private
+  suggested_slug: global-pccs-private
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Grammer
+  suggested_slug: grammer
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: greenable
+  suggested_slug: greenable
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Gris Umformtechnik
+  suggested_slug: gris-umformtechnik
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Hanselmann & Compagnie
+  suggested_slug: hanselmann-and-compagnie
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Huawei Technologies Duesseldorf
+  suggested_slug: huawei-technologies-duesseldorf
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Hüngsberg
+  suggested_slug: h-ngsberg
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: IAV Ingenieursgesellschaft
+  suggested_slug: iav-ingenieursgesellschaft
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: IB-comPLAN
+  suggested_slug: ib-complan
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: IBCT
+  suggested_slug: ibct
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Ichnos Protocol Pte
+  suggested_slug: ichnos-protocol-pte
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: IDUnion SCE
+  suggested_slug: idunion-sce
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: imds professional
+  suggested_slug: imds-professional
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Infor (Deutschland)
+  suggested_slug: infor-deutschland
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Ingenics
+  suggested_slug: ingenics
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: INOVIA Solutions
+  suggested_slug: inovia-solutions
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: inpro Innovationsgesellschaft für fortgeschrittene Produktionssysteme in der
+  suggested_slug: inpro-innovationsgesellschaft-f-r-fortgeschrittene-produktionssysteme-in-der
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Institution for Information Industry (III), Taiwan
+  suggested_slug: institution-for-information-industry-iii-taiwan
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Integrity Next
+  suggested_slug: integrity-next
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: International Council on Environmental Economics and Development Union
+  suggested_slug: international-council-on-environmental-economics-and-development-union
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: INTERX
+  suggested_slug: interx
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: iPoint-Systems
+  suggested_slug: ipoint-systems
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: ISTOS
+  suggested_slug: istos
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: ITRI
+  suggested_slug: itri
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: J. Planitzer Classic Car Service Fahrzeugtransporte
+  suggested_slug: j-planitzer-classic-car-service-fahrzeugtransporte
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Karlsruhe Institute of Technology (KIT), Institute of Nanotechnology INT
+  suggested_slug: karlsruhe-institute-of-technology-kit-institute-of-nanotechnology-int
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Key Sustainability Solutions Pvt
+  suggested_slug: key-sustainability-solutions-pvt
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: kolum
+  suggested_slug: kolum
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Lisa Dräxlmaier
+  suggested_slug: lisa-dr-xlmaier
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: LKS S.Coop
+  suggested_slug: lks-s-coop
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: LRP Autorecycling Leipzig
+  suggested_slug: lrp-autorecycling-leipzig
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: material.one
+  suggested_slug: material-one
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Materna Information & Communications
+  suggested_slug: materna-information-and-communications
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Mavarick AI
+  suggested_slug: mavarick-ai
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: MAYGREEN Consulting
+  suggested_slug: maygreen-consulting
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: MEAtec Mühendislik
+  suggested_slug: meatec-m-hendislik
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Metaform Systems
+  suggested_slug: metaform-systems
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Microsoft Deutschland
+  suggested_slug: microsoft-deutschland
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Mobility Sweden Association
+  suggested_slug: mobility-sweden-association
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: msg for automotive
+  suggested_slug: msg-for-automotive
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: mts Consulting & Engineering
+  suggested_slug: mts-consulting-and-engineering
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Nanjing Fuchuang Intelligent Manufacturing Technology
+  suggested_slug: nanjing-fuchuang-intelligent-manufacturing-technology
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: NEC
+  suggested_slug: nec
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Nelsen Consulting
+  suggested_slug: nelsen-consulting
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: NQC
+  suggested_slug: nqc
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: NTT Communications
+  suggested_slug: ntt-communications
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Octoplus Consulting
+  suggested_slug: octoplus-consulting
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: OmegaLambdaTec
+  suggested_slug: omegalambdatec
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Onlygood Futuretech Pvt
+  suggested_slug: onlygood-futuretech-pvt
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: OpenPower Technology Holdings
+  suggested_slug: openpower-technology-holdings
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Opiquad
+  suggested_slug: opiquad
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: orca. organizing company assets
+  suggested_slug: orca-organizing-company-assets
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Pagero
+  suggested_slug: pagero
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: PHINIA
+  suggested_slug: phinia
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: PipeChain Networks
+  suggested_slug: pipechain-networks
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Plateforme de la Filière Automobile
+  suggested_slug: plateforme-de-la-fili-re-automobile
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Polygran
+  suggested_slug: polygran
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Possehl Digital Services
+  suggested_slug: possehl-digital-services
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Product Ident Group
+  suggested_slug: product-ident-group
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Prostep
+  suggested_slug: prostep
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: PRS Technologie Gesellschaft mbH
+  suggested_slug: prs-technologie-gesellschaft-mbh
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: PTW
+  suggested_slug: ptw
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: REGUL.AI
+  suggested_slug: regul-ai
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Renault SAS
+  suggested_slug: renault-sas
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: RenewEarth Lab
+  suggested_slug: renewearth-lab
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: ReSource Sustainable Technologies
+  suggested_slug: resource-sustainable-technologies
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Rittweger und Team
+  suggested_slug: rittweger-und-team
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Robert Bosch
+  suggested_slug: robert-bosch
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Rossius Consulting
+  suggested_slug: rossius-consulting
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: ROVELLE Slovakia s.r.o
+  suggested_slug: rovelle-slovakia-s-r-o
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: RWTH Aachen, Werkzeugmaschinenlabor WZL, Lehrstuhl für Informations-, Qualitäts
+  suggested_slug: rwth-aachen-werkzeugmaschinenlabor-wzl-lehrstuhl-f-r-informations-qualit-ts
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: S-IT Application Engineering & Consulting
+  suggested_slug: s-it-application-engineering-and-consulting
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: S1Seven
+  suggested_slug: s1seven
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Sayari Labs
+  suggested_slug: sayari-labs
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Schaeffler Technology
+  suggested_slug: schaeffler-technology
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Schneider Intelligent Technology
+  suggested_slug: schneider-intelligent-technology
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Secaro Beheer
+  suggested_slug: secaro-beheer
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Semantic Visions s.r.o
+  suggested_slug: semantic-visions-s-r-o
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: SES RFID Solutions
+  suggested_slug: ses-rfid-solutions
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Shenzhen Precise Testing Technology
+  suggested_slug: shenzhen-precise-testing-technology
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Smoods
+  suggested_slug: smoods
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: sovity
+  suggested_slug: sovity
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Sphera Solutions
+  suggested_slug: sphera-solutions
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Spherity
+  suggested_slug: spherity
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: SSC Services
+  suggested_slug: ssc-services
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: SupplyOn
+  suggested_slug: supplyon
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: SupplyWhy_ai
+  suggested_slug: supplywhy-ai
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Sustamize
+  suggested_slug: sustamize
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Suzhou Tech-D Information Technology Consulting
+  suggested_slug: suzhou-tech-d-information-technology-consulting
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: T-Systems International
+  suggested_slug: t-systems-international
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Taelim
+  suggested_slug: taelim
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: tec4u-Solutions
+  suggested_slug: tec4u-solutions
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Technische Universität Darmstadt Institut für Produktionsmanagement, Technology und
+  suggested_slug: technische-universit-t-darmstadt-institut-f-r-produktionsmanagement-technology-und
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Technovative Solutions
+  suggested_slug: technovative-solutions
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Think.iT
+  suggested_slug: think-it
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Threedy
+  suggested_slug: threedy
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: TRUMPF
+  suggested_slug: trumpf
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: TTMS Holdings
+  suggested_slug: ttms-holdings
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: TÜV SÜD Auto Service
+  suggested_slug: t-v-s-d-auto-service
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: und Sensorsysteme in der Produktion
+  suggested_slug: und-sensorsysteme-in-der-produktion
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Valeo Management Services
+  suggested_slug: valeo-management-services
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: VDA
+  suggested_slug: vda
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Vinturas
+  suggested_slug: vinturas
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Volvo Group Purchasing
+  suggested_slug: volvo-group-purchasing
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Wintix Technologies
+  suggested_slug: wintix-technologies
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Wiser Technology Solutions
+  suggested_slug: wiser-technology-solutions
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Yanfeng International Automotive Technology Europe
+  suggested_slug: yanfeng-international-automotive-technology-europe
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x
+- name: Zettl Automotive
+  suggested_slug: zettl-automotive
+  participants: 1
+  governance_seats: 0
+  bodies:
+  - Association Member
+  source_standard: catena-x

@@ -1,0 +1,144 @@
+generated: '2026-08-03'
+method: searched
+source:
+- https://catena-x.net/association/standardization/
+- https://catena-x.net/association/expert-groups-committees/
+- https://catena-x.net/ecosystem/certification/
+- https://catena-x.net/association/membership-benefits/
+- https://catenax-ev.github.io/
+type: Governance
+organization:
+  legal_name: Catena-X Automotive Network e.V.
+  legal_form: eingetragener Verein (registered association), Germany
+  founded: '2021-05-15'
+  nature: non-commercial association governing a data space, not a product vendor
+  members: 197
+  members_as_of: 01 July 2026
+  members_source: https://catena-x.net/wp-content/uploads/2026/08/Catena-X_Mitgliederliste_260803.pdf
+  founding_members:
+  - ARENA2036
+  - BASF SE
+  - BMW AG
+  - Deutsche Telekom AG
+  - Deutsches Zentrum für Luft- und Raumfahrt (DLR)
+  - German Edge Cloud
+  - Henkel AG & Co. KGaA
+  - ISTOS
+  - Mercedes-Benz AG
+  - Robert Bosch GmbH
+  - SAP SE
+  - Schaeffler AG
+  - Siemens AG
+  - SupplyOn AG
+  - ZF Friedrichshafen AG
+  - Volkswagen AG
+  - Fraunhofer-Gesellschaft
+  public_funding: >-
+    supported by the German Federal Ministry for Economic Affairs and Climate Action under
+    the "Future Investments in the Automotive Industry" programme
+
+bodies:
+- name: Technical Committee for Standardization (TC4S)
+  type: committee
+  remit: >-
+    The central body for standardization matters. Coordinates the review process for every
+    standard candidate through the quality-assurance phase and acts as gatekeeper before
+    Executive Board approval.
+- name: Architecture Management Committee (AMC)
+  type: committee
+  remit: Sets architectural standards and keeps technical decisions aligned to business outcomes.
+- name: Data Space Operations Committee (DSOC)
+  type: committee
+  remit: >-
+    Governance and operational efficiency of the data space — release cycles, deployment
+    gates, and interoperability with other data spaces.
+- name: Network Services Committee (NSC)
+  type: committee
+  remit: >-
+    Shared network services: develops standards, coordinates the open-source implementations,
+    and aligns with external initiatives.
+- name: Technical Committee for Modelling
+  type: committee
+  remit: >-
+    Quality assurance for semantic models before formal standardization as Catena-X and IDTA
+    submodel templates.
+- name: Industry Core Committee
+  type: committee
+  remit: Objectives and KIT for the Industry Core — the shared part and material backbone.
+- name: Sustainability Committee
+  type: committee
+  remit: Roadmaps and requirements for the sustainability standards, including PCF and DPP.
+  contact: sustainability@catena-x.net
+- name: Supply Chain & Quality Committee
+  type: committee
+  remit: Vision, strategy and roadmap for the quality and resiliency fields.
+- name: Ecosystem Activation Committee
+  type: committee
+  remit: Network activation and market-oriented optimization; coordinates hub activities.
+- name: Internationalization Committee
+  type: committee
+  remit: Global expansion through regional hubs.
+
+release_process:
+  cadence: named releases, each moving a set of standards forward together
+  releases_observed: [Jupiter, Io, Saturn, Titan]
+  note: >-
+    Implementers target a release, not individually versioned specifications. Release
+    membership is visible in the documentation tree each standard is published under.
+  source: https://catenax-ev.github.io/timelines
+
+certification:
+  model: third-party conformity assessment
+  framework: Conformity Assessment Framework (CAF), published as a handbook per release
+  handbook_source: https://catena-x.net/wp-content/uploads/2025/10/CatenaX_CAF_Handbook_Eng_Release-Saturn-1.pdf
+  internal_body: Certification Management Centre (CMC)
+  conformity_assessment_bodies:
+  - name: TÜV Rheinland
+    source: https://catena-x.net/news/tuv-rheinland-officially-nominated-as-catena-x-certified-conformity-assessment-body/
+  - name: TÜV SÜD
+    source: https://www.tuvsud.com/en/newsroom/press-releases/2025/march/tuev-sued-appointed-as-conformity-assessment-body-for-catena-x
+  note: >-
+    Very few industry API standards have a conformance layer at all. Catena-X certifies both
+    solutions and providers against a published certification catalog.
+
+operating_company:
+  name: Cofinity-X GmbH
+  founded: 2023
+  based: Cologne, Germany
+  role: >-
+    First operating company of the ecosystem — technical infrastructure, participant
+    onboarding, and the marketplace for certified solutions. Mandate extended through 2028.
+  founded_by: [BASF, BMW Group, Henkel, Mercedes-Benz, SAP, Schaeffler, Siemens, T-Systems,
+    Volkswagen, ZF]
+  source: https://www.cofinity-x.com/
+
+reference_implementation:
+  name: Eclipse Tractus-X
+  host: Eclipse Foundation
+  url: https://github.com/eclipse-tractusx
+  note: >-
+    The specification body and the open-source implementation are governed separately. The
+    working surface is in Tractus-X, not in the association's own GitHub org — 80 repositories
+    and 1,881 releases against 14 repositories and 1 release.
+
+legal_framework:
+- name: Articles of Association
+  url: https://catena-x.net/wp-content/uploads/2026/03/260128_Catena-X-Articles-of-Association-2.pdf
+- name: Intellectual Property Regulations
+  url: https://catena-x.net/wp-content/uploads/2026/02/260128_Catena-X_IP-Regulations.pdf
+- name: Antitrust Guidelines
+  url: https://catena-x.net/wp-content/uploads/2026/02/260128_Catena-X_Antitrust-Guidelines.pdf
+- name: Contribution Regulations
+  url: https://catena-x.net/wp-content/uploads/2026/02/260128_Catena-X_Contribution_Regulations.pdf
+- name: Rules of Procedure for the Management and GAMS Board
+  url: https://catena-x.net/wp-content/uploads/2026/02/260128_Catena-X_Rules-of-Procedure-for-the-Management-and-GAMS-Board.pdf
+
+gaps:
+- >-
+  No named individuals anywhere on the public surface. The association publishes 10 committees
+  and 30 expert groups with their remits, and does not publish who chairs them or who sits on
+  them. The people layer this pipeline exists to capture is genuinely absent — recorded as a
+  miss, not guessed at.
+- >-
+  Member companies are published as a PDF list with no URLs, no seats and no roles, so the
+  coalition graph carries participation but no governance weight.

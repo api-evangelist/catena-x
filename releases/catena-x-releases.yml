@@ -1,0 +1,20 @@
+generated: '2026-08-03'
+method: searched
+source: https://github.com/catenax-eV
+type: Releases
+organization: catenax-eV
+summary:
+  repositories_with_releases: 1
+  repositories_checked: 14
+  total_releases: 1
+releases:
+- repository: catenax-ev.github.io
+  release_count: 1
+  latest:
+    tag: CX-Jupiter
+    name: CX-Jupiter
+    published: '2024-10-21'
+    prerelease: false
+    url: https://github.com/catenax-eV/catenax-ev.github.io/releases/tag/CX-Jupiter
+  tags:
+  - CX-Jupiter

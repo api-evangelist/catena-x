@@ -1,0 +1,2175 @@
+generated: '2026-08-03'
+method: searched
+source: https://github.com/catenax-eV
+type: Contributors
+organization: catenax-eV
+summary:
+  contributors: 422
+  repositories_checked: 14
+  total_contributions: 14610
+contributors:
+- github_id: eclipse-tractusx-bot
+  contributions: 3841
+  repositories:
+  - portal
+  - ssi-authority-schema-registry
+  - ssi-credential-issuer
+  - tractusx-sdk-services
+  repository_count: 4
+- github_id: dgarijo
+  contributions: 2291
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: davidlehn
+  contributions: 1247
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: evegufy
+  contributions: 888
+  repositories:
+  - infrastructure-tools
+  - policy-hub
+  - portal
+  - portal-iam
+  - ssi-authority-schema-registry
+  - ssi-credential-issuer
+  - ssi-dim-middle-layer
+  repository_count: 7
+- github_id: jSchuetz88
+  contributions: 292
+  repositories:
+  - .github
+  - catenax-ev.github.io
+  - cx-odrl-profile
+  repository_count: 3
+- github_id: ther3sa
+  contributions: 281
+  repositories:
+  - catenax-ev.github.io
+  - cx-resources
+  repository_count: 2
+- github_id: Phil91
+  contributions: 272
+  repositories:
+  - policy-hub
+  - portal
+  - portal-iam
+  - ssi-authority-schema-registry
+  - ssi-credential-issuer
+  - ssi-dim-middle-layer
+  repository_count: 6
+- github_id: stephanbcbauer
+  contributions: 258
+  repositories:
+  - .github
+  - catenax-ev.github.io
+  - cx-resources
+  - infrastructure-tools
+  repository_count: 4
+- github_id: jhaag75
+  contributions: 151
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: rapw3k
+  contributions: 141
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: msporny
+  contributions: 98
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: markwilkinson
+  contributions: 97
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: matbmoser
+  contributions: 90
+  repositories:
+  - .github
+  - tractusx-sdk-services
+  repository_count: 2
+- github_id: luigi-asprino
+  contributions: 82
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: tkuhn
+  contributions: 74
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: stain
+  contributions: 67
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: essepuntato
+  contributions: 60
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: ntruchsess
+  contributions: 59
+  repositories:
+  - policy-hub
+  - portal
+  - portal-iam
+  - ssi-authority-schema-registry
+  - ssi-credential-issuer
+  - ssi-dim-middle-layer
+  repository_count: 6
+- github_id: m-markovic
+  contributions: 52
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: dddenes
+  contributions: 51
+  repositories:
+  - tractusx-sdk-services
+  repository_count: 1
+- github_id: mrpeterbasista
+  contributions: 48
+  repositories:
+  - tractusx-sdk-services
+  repository_count: 1
+- github_id: HadleyKing
+  contributions: 48
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: pedropaulofb
+  contributions: 46
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jesper-friis
+  contributions: 45
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: anuzzolese
+  contributions: 42
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: cKlee
+  contributions: 42
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: smrgeoinfo
+  contributions: 41
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: werner-roman
+  contributions: 40
+  repositories:
+  - .github
+  - catenax-ev.github.io
+  - cx-resources
+  repository_count: 3
+- github_id: nicholascar
+  contributions: 40
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: andreamust
+  contributions: 39
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: ocorcho
+  contributions: 39
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: muddymudskipper
+  contributions: 38
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: fsteinemann
+  contributions: 37
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: maximelefrancois86
+  contributions: 37
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: actions-user
+  contributions: 36
+  repositories:
+  - catenax-ev.github.io
+  - cx-odrl-profile
+  repository_count: 2
+- github_id: rajaram5
+  contributions: 34
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: matgnt
+  contributions: 33
+  repositories:
+  - cx-odrl-profile
+  repository_count: 1
+- github_id: awagner-mainz
+  contributions: 33
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: martinjuckes
+  contributions: 33
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: AnnaWagner
+  contributions: 32
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: srodriguez142857
+  contributions: 31
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: rishidev
+  contributions: 31
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: johnpane
+  contributions: 31
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: ilin-t
+  contributions: 31
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: iesnaola
+  contributions: 31
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: ds-asmierzchalski
+  contributions: 30
+  repositories:
+  - example-edc-setup
+  - policy-hub
+  - ssi-authority-schema-registry
+  - ssi-credential-issuer
+  - tractusx-sdk-services
+  repository_count: 5
+- github_id: dlongley
+  contributions: 30
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: AnnKaCatX
+  contributions: 29
+  repositories:
+  - catenax-ev.github.io
+  - cx-odrl-profile
+  repository_count: 2
+- github_id: bact
+  contributions: 29
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: megankatsumi
+  contributions: 27
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: AnneGoebels
+  contributions: 26
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: stefanmet
+  contributions: 25
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: keski
+  contributions: 25
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: DylanVanAssche
+  contributions: 25
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Grand-Thibault
+  contributions: 24
+  repositories:
+  - catenax-ev.github.io
+  repository_count: 1
+- github_id: coolharsh55
+  contributions: 24
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: proccaserra
+  contributions: 24
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: huanyu-li
+  contributions: 24
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: docuracy
+  contributions: 24
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: sroertgen
+  contributions: 24
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: gerbigf
+  contributions: 23
+  repositories:
+  - tractusx-sdk-services
+  repository_count: 1
+- github_id: acka47
+  contributions: 23
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: yoangutierrez
+  contributions: 23
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: luca-martinelli-09
+  contributions: 23
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: TheRazorace
+  contributions: 22
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: hammar
+  contributions: 22
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: MattTJung
+  contributions: 22
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jpcik
+  contributions: 21
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: besteves4
+  contributions: 21
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: gkirtzou
+  contributions: 21
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: matentzn
+  contributions: 21
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: riccardoAlbertoni
+  contributions: 21
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: saidfathalla
+  contributions: 21
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: noelmcloughlin
+  contributions: 20
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: GeorgFerdinandSchneider
+  contributions: 20
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: vemonet
+  contributions: 20
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: riccardotommasini
+  contributions: 20
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: michaelfaerber
+  contributions: 20
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: GiridharUrkude
+  contributions: 20
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: edmondchuc
+  contributions: 19
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: bsletten
+  contributions: 19
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: dachafra
+  contributions: 19
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: delfimpandiani
+  contributions: 19
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: athalhammer
+  contributions: 18
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: JYL61
+  contributions: 18
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: marioscrock
+  contributions: 17
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: cpauloh
+  contributions: 17
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: halindrome
+  contributions: 17
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: firmao
+  contributions: 17
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: paolo7
+  contributions: 16
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: PietroLiuzzo
+  contributions: 16
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: MadsHolten
+  contributions: 16
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: LarssonFilip
+  contributions: 16
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: codepasta
+  contributions: 16
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Iniely
+  contributions: 16
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: kimdhamilton
+  contributions: 15
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: MuhammadYahta
+  contributions: 15
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: MichaelRoeder
+  contributions: 14
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: turbomam
+  contributions: 14
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jfaldanam
+  contributions: 14
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: cmungall
+  contributions: 14
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: doerners
+  contributions: 14
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: AminaANNANE
+  contributions: 14
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: EmidioStani
+  contributions: 14
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: br0ast
+  contributions: 14
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: hoijui
+  contributions: 14
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Capable-project
+  contributions: 14
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: xtoph85
+  contributions: 13
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: luizbonino
+  contributions: 13
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: melvincarvalho
+  contributions: 13
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: MichaelPretorius
+  contributions: 13
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: doigl
+  contributions: 13
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: ssteinbuss
+  contributions: 13
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: SilenceSnake
+  contributions: 13
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: skontopo
+  contributions: 13
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: JWerbrouck
+  contributions: 13
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: bjdmeest
+  contributions: 13
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: ds-lcapellino
+  contributions: 12
+  repositories:
+  - catenax-ev.github.io
+  - portal
+  - portal-iam
+  repository_count: 3
+- github_id: DanielaWuensch
+  contributions: 12
+  repositories:
+  - cx-odrl-profile
+  repository_count: 1
+- github_id: biswanathdutta
+  contributions: 12
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: lucasaugustomcc
+  contributions: 12
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: olibrius
+  contributions: 12
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: OntoIT
+  contributions: 12
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: paulbaptista
+  contributions: 12
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: pipauwel
+  contributions: 12
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jonimoreira
+  contributions: 12
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: AnuragNagpure
+  contributions: 11
+  repositories:
+  - policy-hub
+  - portal
+  repository_count: 2
+- github_id: SebSeis
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: igrangel
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Alhakam
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: anaigmo
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: danilo-dessi
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: fgilliswebber
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: joepvgenuchten
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: joshgay
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: mommi84
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: eVgKatis
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: wterkaj
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: d3cebal
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: huaning-yang
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Syed-Rahman-Mashwani
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: stuchalk
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: pietercolpaert
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: nandana
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: nicholsn
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: nandadorea
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: HervePruvost
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: kmcglinn
+  contributions: 11
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: typecastcloud
+  contributions: 10
+  repositories:
+  - portal
+  - portal-iam
+  - ssi-authority-schema-registry
+  repository_count: 3
+- github_id: shekarpour
+  contributions: 10
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: neda-abolhassani
+  contributions: 10
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: hsolbrig
+  contributions: 10
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: marilenadaquino
+  contributions: 10
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: magrod
+  contributions: 10
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: mzax
+  contributions: 10
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: lodewijk81
+  contributions: 10
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: angelosalatino
+  contributions: 10
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: mu40
+  contributions: 10
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: MarkusSchilling
+  contributions: 10
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Ostrzyciel
+  contributions: 10
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: kevin801006
+  contributions: 10
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jimjyang
+  contributions: 10
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: VPrasannaK94
+  contributions: 9
+  repositories:
+  - portal
+  repository_count: 1
+- github_id: saudkhan116
+  contributions: 9
+  repositories:
+  - tractusx-sdk-services
+  repository_count: 1
+- github_id: KMax
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: drcgjung
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: ArdenKirkland
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: agbeltran
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: maxsibilla
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: esgg
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: psiotwo
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: micheldumontier
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: JoaoMFCardoso
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: djodjoni
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: nbassili
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: ncarboni
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: GenEars
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: mariapoveda
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: mathib
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: maxraupach
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: physta
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: sthhher
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: izasfer
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: vitalis-wiens
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: MattGroenewald
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: namedgraph
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: korchiev
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: kabulkurniawan
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: nanoyan
+  contributions: 9
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: sebbader
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: ziodave
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: faiqmiftakhul
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: philhag
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: nakamura196
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: kohsah
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: DACE-DL
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: DelaramGlp
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: PeriscopeProject
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: fkleedorfer
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: idafensp
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: r0sek
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Kibubu
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: masao
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Antoine-Zimmermann
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: rgiessmann
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: AnLiGentile
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: shaoweilin
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Sheeba-Samuel
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: AlexDonkers
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: scerrisimon
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: stefanbischof
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Sven-Iwaszko
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: ValentinaPasqual
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: abhiseksharma
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: dangeloandrea14
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: fgiovannetti
+  contributions: 8
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: HFocken
+  contributions: 7
+  repositories:
+  - catenax-ev.github.io
+  - cx-odrl-profile
+  repository_count: 2
+- github_id: ComeIn-NRW
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: kexu2014
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: giachell
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: pmcb55
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: dcorsar
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: tpluscode
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jerdeb
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: hrshdhgd
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: brechtvdv
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: federicarollo
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jm-gimenez-garcia
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: fenixdreamerPro
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Muffexx
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: navapatn
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: gloucklegnou
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: cqsss
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: zimeon
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: stcruy
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: TallTed
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: tombaker
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: bobstuart
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: danaivach
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: datia
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: giorgialodi
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: raphlap
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: natetem
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: mazimweal
+  contributions: 7
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jjeroch
+  contributions: 6
+  repositories:
+  - policy-hub
+  - portal-iam
+  - ssi-authority-schema-registry
+  - ssi-credential-issuer
+  repository_count: 4
+- github_id: leandro-cavalcante
+  contributions: 6
+  repositories:
+  - policy-hub
+  - ssi-credential-issuer
+  repository_count: 2
+- github_id: CDiezRodriguez
+  contributions: 6
+  repositories:
+  - policy-hub
+  - portal
+  - ssi-credential-issuer
+  - tractusx-sdk-services
+  repository_count: 4
+- github_id: prapalu
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: madhawap
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: dmitrizagidulin
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: dalito
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: pantoner
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: khancynthia28
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: atomotic
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: rantoniazzi
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: afshinsadeghi
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: slweeb
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: elecoche
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: estorti
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: cthoyt
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: bozicb
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: beepsoft
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: BOberreither
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: andrewyatz
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: AndreiNesterov
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: LiniXiang
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: maurodragoni
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: hmmlsystems
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: gmparg
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jorge-cardoso
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jmcmurry
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: juusoautiosalo
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: murata2makoto
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: matt-wallis
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: ottonomy
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: OR13
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: redmer
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: frederik-elwert
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: fatibaba
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: joergwa
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jeffstazer
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jaw111
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: diegoref
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: dcodings
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: elespdn
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: thomasrebele
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: telsaleh
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: stefanogermano
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: kirnerlukas
+  contributions: 6
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: mgarciaLKS
+  contributions: 5
+  repositories:
+  - policy-hub
+  - portal
+  - ssi-authority-schema-registry
+  - ssi-credential-issuer
+  repository_count: 4
+- github_id: ds-sdileo
+  contributions: 5
+  repositories:
+  - tractusx-sdk-services
+  repository_count: 1
+- github_id: fpc-rescuer
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: hmqq
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: llin-csiss
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: migrationsKB
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: mojo-ac
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: navarral
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: nikolaosLagos
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: alex-randles
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: alsayedal
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: datadavev
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: zednis
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: cristinacm
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: unterrichtsvideos
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jagerda
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: JoCroucher
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: avillar
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Amalguittoum
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: natuk
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: blake-regalia
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: dfalster
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: tokarenko
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: emmanuelpapadakis
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: frmichel
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Fspiga13
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: giansilv
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Hebaallahibrahim
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: henryrosalesmendez
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: bedroesb
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: audunven
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jsimonclark
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: rwambacq
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: qasimkhalid
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: patriciaferreiradasilva
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: maieutike
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: proycon
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: lucymc12
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: LeonardoForero
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jbulow-se
+  contributions: 5
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: juliapampus
+  contributions: 4
+  repositories:
+  - cx-odrl-profile
+  repository_count: 1
+- github_id: MaximilianHauer
+  contributions: 4
+  repositories:
+  - cx-odrl-profile
+  - portal-iam
+  - ssi-credential-issuer
+  repository_count: 3
+- github_id: manojava-gk
+  contributions: 4
+  repositories:
+  - portal
+  repository_count: 1
+- github_id: clehner
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: utkarshani
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: annugyen
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: FraunhoferIAIS-IDS
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: charlycou
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Brainchain09
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: davidReinert
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: dglemos
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: erickorb
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: luca-secchi
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: marianofl1971
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: regisrob
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: rsaniei
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: B-Ludwig
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: wawrzik
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: joogvzz
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: BernHyland
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: andrea-perego
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: AnaKostovska
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: ammar257ammar
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: InailUff5
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jrvosse
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jacohend
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: arademaker
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: prototypo
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: ecow
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: gabrieledeluca
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: cgcook
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: thgie
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jatoledo
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jandrieu
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: johannesschrott
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: jdmarinj
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: ManueleVeggi
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: nimonika
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: SvenLieber
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: selios
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: claudenirmf
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: sotirisAng
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: sebbader-sap
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: sbrzt
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: rubensworks
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: ronaldcornet
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: nicolas-hbt
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: NuriaQueralt
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: PaavoNykanen
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: pslusarz
+  contributions: 4
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: oyo
+  contributions: 3
+  repositories:
+  - portal-iam
+  repository_count: 1
+- github_id: jmkeil
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: j-simmons-phd
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: HolgerSt
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Haoyu-R
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: guihcs
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: gourav-vc
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: GO5IT
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: fr4ncidir
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: alaintxu
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: AlexanderWillner
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: EdliraK
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: dwinston
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: davidlj95
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: alvinsw
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: dv-at-umms
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Amiaba
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: hbcesar
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: charlesvardeman
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: icebrg
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: Bluarancio
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: andyjohnson
+  contributions: 3
+  repositories:
+  - w3id.org
+  repository_count: 1
+- github_id: lgblaumeiser
+  contributions: 2
+  repositories:
+  - .github
+  repository_count: 1
+- github_id: drhansbeck
+  contributions: 2
+  repositories:
+  - catenax-ev.github.io
+  repository_count: 1
+- github_id: pablosec
+  contributions: 2
+  repositories:
+  - policy-hub
+  - ssi-credential-issuer
+  repository_count: 2
+- github_id: Siegfriedk
+  contributions: 2
+  repositories:
+  - policy-hub
+  - ssi-dim-middle-layer
+  repository_count: 2
+- github_id: szymonkowalczykzf
+  contributions: 2
+  repositories:
+  - policy-hub
+  - ssi-authority-schema-registry
+  repository_count: 2
+- github_id: qxz2mqe
+  contributions: 2
+  repositories:
+  - portal
+  repository_count: 1
+- github_id: tfjanjua
+  contributions: 2
+  repositories:
+  - portal
+  repository_count: 1
+- github_id: ds-jhartmann
+  contributions: 2
+  repositories:
+  - tractusx-sdk-services
+  repository_count: 1
+- github_id: axkluge
+  contributions: 1
+  repositories:
+  - catenax-ev.github.io
+  repository_count: 1
+- github_id: JinsYin
+  contributions: 1
+  repositories:
+  - catenax-ev.github.io
+  repository_count: 1
+- github_id: stanfaldin
+  contributions: 1
+  repositories:
+  - catenax-ev.github.io
+  repository_count: 1
+- github_id: timdahlmanns
+  contributions: 1
+  repositories:
+  - cx-odrl-profile
+  repository_count: 1
+- github_id: carslen
+  contributions: 1
+  repositories:
+  - policy-hub
+  repository_count: 1
+- github_id: mhellmeier
+  contributions: 1
+  repositories:
+  - policy-hub
+  repository_count: 1
+- github_id: tom-rm-meyer-ISST
+  contributions: 1
+  repositories:
+  - policy-hub
+  repository_count: 1
+- github_id: nidhigarg-bmw
+  contributions: 1
+  repositories:
+  - portal
+  repository_count: 1
+- github_id: JordanGerada3
+  contributions: 1
+  repositories:
+  - portal-iam
+  repository_count: 1
+- github_id: rmarting
+  contributions: 1
+  repositories:
+  - portal-iam
+  repository_count: 1
+- github_id: nicoprow
+  contributions: 1
+  repositories:
+  - portal-iam
+  repository_count: 1
+- github_id: shahmargi12
+  contributions: 1
+  repositories:
+  - portal-iam
+  repository_count: 1
+- github_id: dhiren-singh-007
+  contributions: 1
+  repositories:
+  - ssi-credential-issuer
+  repository_count: 1

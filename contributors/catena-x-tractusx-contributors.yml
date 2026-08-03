@@ -1,0 +1,2726 @@
+generated: '2026-08-03'
+method: searched
+source: https://github.com/eclipse-tractusx
+type: Contributors
+organization: eclipse-tractusx
+summary:
+  contributors: 410
+  repositories_checked: 57
+  total_contributions: 64298
+contributors:
+- github_id: eclipse-tractusx-bot
+  contributions: 4529
+  repositories:
+  - .eclipsefdn
+  - bpn-did-resolution-service
+  - eclipse-tractusx.github.io.largefiles
+  - knowledge-agents-aas-bridge
+  - portal
+  - puris
+  - sig-security
+  - ssi-credential-issuer
+  - tractusx-edc
+  - tractusx-profiles
+  - tractusx-sdk-services
+  - tutorial-resources
+  repository_count: 12
+- github_id: ds-mwesener
+  contributions: 3602
+  repositories:
+  - eclipse-tractusx.github.io
+  - item-relationship-service
+  - managed-simple-data-exchanger-backend
+  - sldt-semantic-hub
+  - traceability-foss
+  - tractus-x-umbrella
+  - tutorial-resources
+  repository_count: 7
+- github_id: evegufy
+  contributions: 2856
+  repositories:
+  - .eclipsefdn
+  - .github
+  - api-hub
+  - bpn-did-resolution-service
+  - eclipse-tractusx.github.io
+  - portal
+  - portal-assets
+  - portal-backend
+  - portal-frontend
+  - portal-frontend-registration
+  - portal-iam
+  - portal-shared-components
+  - sd-factory
+  - sig-architecture
+  - sig-infra
+  - sig-release
+  - ssi-credential-issuer
+  - tractus-x-umbrella
+  repository_count: 18
+- github_id: ds-jhartmann
+  contributions: 2652
+  repositories:
+  - .eclipsefdn
+  - eclipse-tractusx.github.io
+  - item-relationship-service
+  - traceability-foss
+  - tractus-x-umbrella
+  - tractusx-edc
+  - tractusx-edc-kafka-extension
+  - tractusx-sdk-services
+  - tutorial-resources
+  repository_count: 9
+- github_id: matbmoser
+  contributions: 2156
+  repositories:
+  - .eclipsefdn
+  - .github
+  - aas-suite
+  - api-hub
+  - app-dashboard
+  - charts
+  - eclipse-tractusx.github.io
+  - eclipse-tractusx.github.io.largefiles
+  - industry-core-hub
+  - sig-architecture
+  - sig-infra
+  - sig-release
+  - sldt-digital-twin-registry
+  - sldt-semantic-models
+  - ssi-credential-issuer
+  - testdata-provider
+  - tractus-x-release
+  - tractus-x-umbrella
+  - tractusx-edc
+  - tractusx-identityhub
+  - tractusx-profiles
+  - tractusx-sdk
+  - tractusx-sdk-services
+  - tractusx-testlab
+  - tutorial-resources
+  repository_count: 25
+- github_id: Phil91
+  contributions: 1918
+  repositories:
+  - eclipse-tractusx.github.io
+  - portal
+  - portal-assets
+  - portal-backend
+  - portal-frontend
+  - portal-frontend-registration
+  - portal-iam
+  - ssi-credential-issuer
+  - tractus-x-umbrella
+  - tractusx-edc
+  repository_count: 10
+- github_id: nicoprow
+  contributions: 1844
+  repositories:
+  - bpdm
+  - eclipse-tractusx.github.io
+  - portal-iam
+  - tractus-x-umbrella
+  repository_count: 4
+- github_id: CDiezRodriguez
+  contributions: 1484
+  repositories:
+  - eclipse-tractusx.github.io.largefiles
+  - industry-core-hub
+  - portal
+  - portal-backend
+  - portal-frontend
+  - portal-frontend-registration
+  - portal-shared-components
+  - ssi-credential-issuer
+  - ssi-dim-wallet-stub
+  - tractus-x-umbrella
+  - tractusx-identityhub
+  - tractusx-sdk
+  - tractusx-sdk-services
+  - tractusx-testlab
+  repository_count: 14
+- github_id: manojava-gk
+  contributions: 1431
+  repositories:
+  - eclipse-tractusx.github.io
+  - eclipse-tractusx.github.io.largefiles
+  - portal
+  - portal-assets
+  - portal-backend
+  - portal-frontend
+  - portal-frontend-registration
+  - portal-shared-components
+  repository_count: 8
+- github_id: stephanbcbauer
+  contributions: 1382
+  repositories:
+  - .eclipsefdn
+  - .github
+  - aas-suite
+  - api-hub
+  - app-dashboard
+  - bpn-did-resolution-service
+  - charts
+  - data-exchange-test-service
+  - eclipse-tractusx.github.io
+  - eclipse-tractusx.github.io.largefiles
+  - engineering-use-case-demonstrator
+  - industry-core-hub
+  - item-relationship-service
+  - knowledge-agents-aas-bridge
+  - managed-service-orchestrator
+  - sd-factory
+  - sig-architecture
+  - sig-infra
+  - sig-release
+  - sig-security
+  - sldt-bpn-discovery
+  - sldt-digital-twin-registry
+  - sldt-discovery-finder
+  - sldt-ontology-model
+  - sldt-semantic-models
+  - ssi-credential-issuer
+  - ssi-dim-wallet-stub
+  - testdata-provider
+  - tractus-x-release
+  - tractus-x-umbrella
+  - tractusx-edc
+  - tractusx-edc-dashboard
+  - tractusx-identityhub
+  - tractusx-profiles
+  - tractusx-sdk
+  - tractusx-sdk-services
+  - tutorial-resources
+  repository_count: 37
+- github_id: nidhigarg-bmw
+  contributions: 1275
+  repositories:
+  - portal
+  - portal-assets
+  - portal-backend
+  - portal-frontend
+  - portal-frontend-registration
+  - portal-shared-components
+  repository_count: 6
+- github_id: adityagajbhiye
+  contributions: 1253
+  repositories:
+  - managed-service-orchestrator
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  - sd-factory
+  repository_count: 4
+- github_id: jjeroch
+  contributions: 1224
+  repositories:
+  - eclipse-tractusx.github.io
+  - portal-assets
+  - portal-backend
+  - portal-frontend
+  - portal-frontend-registration
+  - portal-iam
+  - ssi-credential-issuer
+  repository_count: 7
+- github_id: ds-mmaul
+  contributions: 1147
+  repositories:
+  - item-relationship-service
+  - traceability-foss
+  repository_count: 2
+- github_id: ds-ext-kmassalski
+  contributions: 1137
+  repositories:
+  - eclipse-tractusx.github.io
+  - item-relationship-service
+  repository_count: 2
+- github_id: tom-rm-meyer-ISST
+  contributions: 1134
+  repositories:
+  - .eclipsefdn
+  - app-dashboard
+  - charts
+  - eclipse-tractusx.github.io
+  - puris
+  - sig-infra
+  - sig-release
+  - sldt-digital-twin-registry
+  - sldt-ontology-model
+  - sldt-semantic-models
+  - ssi-dim-wallet-stub
+  - tractus-x-release
+  - tractusx-edc
+  repository_count: 13
+- github_id: ntruchsess
+  contributions: 1111
+  repositories:
+  - portal
+  - portal-assets
+  - portal-backend
+  - portal-frontend
+  - portal-frontend-registration
+  - portal-iam
+  - ssi-credential-issuer
+  repository_count: 7
+- github_id: adkumar1
+  contributions: 1042
+  repositories:
+  - data-exchange-test-service
+  - managed-service-orchestrator
+  - managed-simple-data-exchanger
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  - sd-factory
+  repository_count: 6
+- github_id: ds-lcapellino
+  contributions: 949
+  repositories:
+  - item-relationship-service
+  - portal
+  - portal-frontend
+  - portal-iam
+  - testdata-provider
+  - traceability-foss
+  - tractus-x-release
+  repository_count: 7
+- github_id: mkanal
+  contributions: 878
+  repositories:
+  - eclipse-tractusx.github.io
+  - item-relationship-service
+  - sldt-discovery-finder
+  - sldt-semantic-models
+  - traceability-foss
+  - tractus-x-umbrella
+  - tractusx-edc-kafka-extension
+  - tutorial-resources
+  repository_count: 8
+- github_id: tunacicek
+  contributions: 878
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-bpn-discovery
+  - sldt-digital-twin-registry
+  - sldt-discovery-finder
+  - sldt-semantic-hub
+  - sldt-semantic-models
+  - tractus-x-release
+  - tractus-x-umbrella
+  repository_count: 8
+- github_id: dsmf
+  contributions: 858
+  repositories:
+  - eclipse-tractusx.github.io
+  - item-relationship-service
+  repository_count: 2
+- github_id: ds-ext-sceronik
+  contributions: 851
+  repositories:
+  - item-relationship-service
+  - traceability-foss
+  repository_count: 2
+- github_id: sachinargade123
+  contributions: 754
+  repositories:
+  - data-exchange-test-service
+  - managed-service-orchestrator
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  repository_count: 4
+- github_id: agg3fe
+  contributions: 741
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-bpn-discovery
+  - sldt-digital-twin-registry
+  - sldt-discovery-finder
+  - sldt-semantic-hub
+  - sldt-semantic-models
+  - tractus-x-umbrella
+  repository_count: 7
+- github_id: drcgjung
+  contributions: 692
+  repositories:
+  - eclipse-tractusx.github.io
+  - knowledge-agents
+  - knowledge-agents-aas-bridge
+  - knowledge-agents-edc
+  - sldt-digital-twin-registry
+  - sldt-ontology-model
+  repository_count: 6
+- github_id: adityagajbhiye9
+  contributions: 646
+  repositories:
+  - managed-service-orchestrator
+  - managed-simple-data-exchanger
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  - sd-factory
+  repository_count: 5
+- github_id: qxz2mqe
+  contributions: 586
+  repositories:
+  - portal
+  - portal-assets
+  - portal-backend
+  repository_count: 3
+- github_id: ChetanT-System
+  contributions: 539
+  repositories:
+  - managed-service-orchestrator
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  - sd-factory
+  repository_count: 4
+- github_id: lavanya-bmw
+  contributions: 539
+  repositories:
+  - portal-assets
+  - portal-frontend
+  - portal-frontend-registration
+  - portal-shared-components
+  repository_count: 4
+- github_id: fwesthaeusser
+  contributions: 518
+  repositories:
+  - traceability-foss
+  repository_count: 1
+- github_id: almadigabor
+  contributions: 517
+  repositories:
+  - .eclipsefdn
+  - .github
+  - app-dashboard
+  - charts
+  - data-exchange-test-service
+  - eclipse-tractusx.github.io
+  - knowledge-agents
+  - knowledge-agents-aas-bridge
+  - knowledge-agents-edc
+  - managed-service-orchestrator
+  - managed-simple-data-exchanger
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  - sd-factory
+  - sig-infra
+  - traceability-foss
+  - tractus-x-release
+  - tractus-x-umbrella
+  repository_count: 18
+- github_id: tomaszbarwicki
+  contributions: 513
+  repositories:
+  - .eclipsefdn
+  - .github
+  - api-hub
+  - app-dashboard
+  - charts
+  - data-exchange-test-service
+  - eclipse-tractusx.github.io
+  - eclipse-tractusx.github.io.largefiles
+  - managed-service-orchestrator
+  - managed-simple-data-exchanger
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  - puris
+  - sd-factory
+  - sig-infra
+  - sig-release
+  - sig-security
+  - sldt-discovery-finder
+  - testdata-provider
+  - tractus-x-release
+  - tractus-x-umbrella
+  - tutorial-resources
+  repository_count: 22
+- github_id: ds-alexander-bulgakov
+  contributions: 507
+  repositories:
+  - item-relationship-service
+  - traceability-foss
+  repository_count: 2
+- github_id: SebastianBezold
+  contributions: 443
+  repositories:
+  - .eclipsefdn
+  - .github
+  - app-dashboard
+  - bpdm
+  - charts
+  - data-exchange-test-service
+  - eclipse-tractusx.github.io
+  - item-relationship-service
+  - knowledge-agents
+  - knowledge-agents-aas-bridge
+  - knowledge-agents-edc
+  - managed-service-orchestrator
+  - sd-factory
+  - sig-infra
+  - sig-release
+  - sig-security
+  - sldt-ontology-model
+  - sldt-semantic-hub
+  - testdata-provider
+  - traceability-foss
+  - tractus-x-release
+  - tractus-x-umbrella
+  - tractusx-edc
+  repository_count: 23
+- github_id: ajithsimons
+  contributions: 439
+  repositories:
+  - managed-simple-data-exchanger-frontend
+  - portal-frontend
+  - portal-frontend-registration
+  repository_count: 3
+- github_id: eschrewe
+  contributions: 436
+  repositories:
+  - puris
+  repository_count: 1
+- github_id: paullatzelsperger
+  contributions: 426
+  repositories:
+  - .eclipsefdn
+  - bpn-did-resolution-service
+  - tractusx-edc
+  - tractusx-identityhub
+  - tractusx-profiles
+  - tutorial-resources
+  repository_count: 6
+- github_id: DhanashriJadhavs
+  contributions: 421
+  repositories:
+  - managed-service-orchestrator
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  - sd-factory
+  repository_count: 4
+- github_id: SujitMBRDI
+  contributions: 386
+  repositories:
+  - .eclipsefdn
+  - bpdm
+  - eclipse-tractusx.github.io
+  - sig-release
+  - sldt-semantic-models
+  repository_count: 5
+- github_id: Siegfriedk
+  contributions: 384
+  repositories:
+  - .eclipsefdn
+  - .github
+  - app-dashboard
+  - bpdm
+  - data-exchange-test-service
+  - eclipse-tractusx.github.io
+  - eclipse-tractusx.github.io.largefiles
+  - knowledge-agents
+  - knowledge-agents-edc
+  - managed-service-orchestrator
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  - sd-factory
+  - sig-infra
+  - sig-release
+  - sig-security
+  - tractus-x-release
+  - tractus-x-umbrella
+  - tractusx-edc
+  repository_count: 19
+- github_id: santiagoejm
+  contributions: 366
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: pazepaze
+  contributions: 362
+  repositories:
+  - bpdm
+  repository_count: 1
+- github_id: FaGru3n
+  contributions: 359
+  repositories:
+  - .eclipsefdn
+  - .github
+  - bpdm
+  - charts
+  - eclipse-tractusx.github.io
+  - eclipse-tractusx.github.io.largefiles
+  - knowledge-agents-edc
+  - managed-simple-data-exchanger
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  - sig-infra
+  - sig-release
+  - sig-security
+  - sldt-bpn-discovery
+  - sldt-semantic-models
+  - testdata-provider
+  - tractus-x-release
+  - tractus-x-umbrella
+  repository_count: 18
+- github_id: ClosedSourcerer
+  contributions: 350
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: jSchuetz88
+  contributions: 328
+  repositories:
+  - .github
+  - eclipse-tractusx.github.io
+  - sldt-ontology-model
+  - sldt-semantic-models
+  - testdata-provider
+  repository_count: 5
+- github_id: bs-jokri
+  contributions: 328
+  repositories:
+  - sldt-bpn-discovery
+  - sldt-digital-twin-registry
+  - sldt-discovery-finder
+  - sldt-semantic-hub
+  - sldt-semantic-models
+  repository_count: 5
+- github_id: lgblaumeiser
+  contributions: 327
+  repositories:
+  - .eclipsefdn
+  - bpn-did-resolution-service
+  - eclipse-tractusx.github.io
+  - sig-architecture
+  - sig-release
+  - tractusx-edc
+  - tractusx-edc-dashboard
+  - tractusx-edc-kafka-extension
+  - tractusx-profiles
+  - tutorial-resources
+  repository_count: 10
+- github_id: mhellmeier
+  contributions: 301
+  repositories:
+  - .eclipsefdn
+  - eclipse-tractusx.github.io
+  - eclipse-tractusx.github.io.largefiles
+  - puris
+  - tractusx-edc
+  repository_count: 5
+- github_id: shijinrajbosch
+  contributions: 286
+  repositories:
+  - sldt-bpn-discovery
+  - sldt-digital-twin-registry
+  - sldt-discovery-finder
+  - sldt-semantic-hub
+  - sldt-semantic-models
+  repository_count: 5
+- github_id: ds-ext-ooyeneye
+  contributions: 251
+  repositories:
+  - item-relationship-service
+  repository_count: 1
+- github_id: Grand-Thibault
+  contributions: 247
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: arnoweiss
+  contributions: 229
+  repositories:
+  - eclipse-tractusx.github.io
+  - knowledge-agents-aas-bridge
+  - sldt-digital-twin-registry
+  - sldt-ontology-model
+  - sldt-semantic-models
+  - ssi-dim-wallet-stub
+  - tractus-x-release
+  - tractusx-edc
+  - tractusx-profiles
+  repository_count: 9
+- github_id: martinfkaeser
+  contributions: 227
+  repositories:
+  - bpdm
+  repository_count: 1
+- github_id: wolf4ood
+  contributions: 225
+  repositories:
+  - .eclipsefdn
+  - bpn-did-resolution-service
+  - tractusx-edc
+  - tractusx-profiles
+  - tutorial-resources
+  repository_count: 5
+- github_id: jalvaro-lks
+  contributions: 222
+  repositories:
+  - industry-core-hub
+  - tractus-x-umbrella
+  repository_count: 2
+- github_id: LuLeRoemer
+  contributions: 222
+  repositories:
+  - sldt-bpn-discovery
+  - sldt-digital-twin-registry
+  - sldt-discovery-finder
+  - sldt-semantic-hub
+  - sldt-semantic-models
+  repository_count: 5
+- github_id: catroest
+  contributions: 218
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: efficient0482
+  contributions: 214
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: AYaoZhan
+  contributions: 213
+  repositories:
+  - ssi-dim-wallet-stub
+  - tractus-x-umbrella
+  - tractusx-identityhub
+  repository_count: 3
+- github_id: scherersebastian
+  contributions: 209
+  repositories:
+  - .eclipsefdn
+  - .github
+  - bpdm
+  - eclipse-tractusx.github.io
+  - item-relationship-service
+  - knowledge-agents
+  - managed-service-orchestrator
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  - portal-backend
+  - portal-frontend
+  - portal-frontend-registration
+  - puris
+  - sd-factory
+  - sig-infra
+  - sig-security
+  - sldt-bpn-discovery
+  - sldt-digital-twin-registry
+  - sldt-discovery-finder
+  - sldt-semantic-hub
+  - traceability-foss
+  repository_count: 21
+- github_id: ther3sa
+  contributions: 208
+  repositories:
+  - eclipse-tractusx.github.io
+  - sig-release
+  - tractus-x-release
+  repository_count: 3
+- github_id: dvasunin
+  contributions: 199
+  repositories:
+  - managed-service-orchestrator
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  - portal-assets
+  - sd-factory
+  repository_count: 5
+- github_id: ds-ext-dskrzypczak
+  contributions: 189
+  repositories:
+  - traceability-foss
+  repository_count: 1
+- github_id: graflmsg
+  contributions: 189
+  repositories:
+  - traceability-foss
+  repository_count: 1
+- github_id: TorstenHirsch
+  contributions: 184
+  repositories:
+  - eclipse-tractusx.github.io
+  - eclipse-tractusx.github.io.largefiles
+  - sldt-semantic-models
+  repository_count: 3
+- github_id: maximilianong
+  contributions: 183
+  repositories:
+  - eclipse-tractusx.github.io
+  - sig-release
+  - sldt-ontology-model
+  - sldt-semantic-models
+  repository_count: 4
+- github_id: ReneSchroederLJ
+  contributions: 178
+  repositories:
+  - eclipse-tractusx.github.io
+  - puris
+  repository_count: 2
+- github_id: PI-FerasAhmad
+  contributions: 178
+  repositories:
+  - portal-frontend
+  - portal-frontend-registration
+  repository_count: 2
+- github_id: amoldashwant
+  contributions: 177
+  repositories:
+  - data-exchange-test-service
+  - managed-service-orchestrator
+  - managed-simple-data-exchanger-backend
+  - sd-factory
+  repository_count: 4
+- github_id: sm29105
+  contributions: 176
+  repositories:
+  - industry-core-hub
+  - sldt-digital-twin-registry
+  - tractusx-sdk
+  repository_count: 3
+- github_id: gomezbc
+  contributions: 162
+  repositories:
+  - industry-core-hub
+  - tractus-x-umbrella
+  - tractusx-sdk
+  repository_count: 3
+- github_id: VPrasannaK94
+  contributions: 156
+  repositories:
+  - portal
+  - portal-assets
+  - portal-backend
+  repository_count: 3
+- github_id: danielmiehle
+  contributions: 153
+  repositories:
+  - eclipse-tractusx.github.io
+  - eclipse-tractusx.github.io.largefiles
+  - sig-release
+  repository_count: 3
+- github_id: dominikoeh
+  contributions: 152
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: mgarciaLKS
+  contributions: 146
+  repositories:
+  - eclipse-tractusx.github.io
+  - eclipse-tractusx.github.io.largefiles
+  - industry-core-hub
+  - portal
+  - portal-assets
+  - portal-iam
+  - ssi-credential-issuer
+  - ssi-dim-wallet-stub
+  - tractus-x-umbrella
+  - tractusx-identityhub
+  - tractusx-sdk
+  - tutorial-resources
+  repository_count: 12
+- github_id: SaberIstos
+  contributions: 146
+  repositories:
+  - item-relationship-service
+  repository_count: 1
+- github_id: pedrojorgectw
+  contributions: 145
+  repositories:
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  repository_count: 2
+- github_id: wrappric
+  contributions: 143
+  repositories:
+  - portal-backend
+  repository_count: 1
+- github_id: ds-psosnowski
+  contributions: 142
+  repositories:
+  - item-relationship-service
+  repository_count: 1
+- github_id: markuskeidl
+  contributions: 140
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-ontology-model
+  repository_count: 2
+- github_id: ndr-brt
+  contributions: 139
+  repositories:
+  - .eclipsefdn
+  - api-hub
+  - bpn-did-resolution-service
+  - eclipse-tractusx.github.io
+  - tractusx-edc
+  - tractusx-profiles
+  - tutorial-resources
+  repository_count: 7
+- github_id: nitin-vavdiya
+  contributions: 137
+  repositories:
+  - .eclipsefdn
+  - bpn-did-resolution-service
+  - ssi-dim-wallet-stub
+  - tractus-x-umbrella
+  repository_count: 4
+- github_id: pjuaristi-ikerlan
+  contributions: 136
+  repositories:
+  - industry-core-hub
+  repository_count: 1
+- github_id: ds-ext-jserwa
+  contributions: 129
+  repositories:
+  - traceability-foss
+  repository_count: 1
+- github_id: ds-crehm
+  contributions: 129
+  repositories:
+  - traceability-foss
+  repository_count: 1
+- github_id: AndrYurk
+  contributions: 128
+  repositories:
+  - bpn-did-resolution-service
+  - sig-infra
+  - sldt-digital-twin-registry
+  - tractusx-edc
+  - tractusx-edc-kafka-extension
+  - tractusx-profiles
+  - tutorial-resources
+  repository_count: 7
+- github_id: ds-ext-abugajewski
+  contributions: 121
+  repositories:
+  - item-relationship-service
+  repository_count: 1
+- github_id: alexsilva-CGI
+  contributions: 119
+  repositories:
+  - bpdm
+  repository_count: 1
+- github_id: RoKrish14
+  contributions: 118
+  repositories:
+  - .github
+  - bpdm
+  - data-exchange-test-service
+  - eclipse-tractusx.github.io
+  - item-relationship-service
+  - knowledge-agents
+  - managed-service-orchestrator
+  - puris
+  - sd-factory
+  - sig-security
+  - sldt-bpn-discovery
+  - sldt-digital-twin-registry
+  - sldt-discovery-finder
+  - sldt-semantic-hub
+  repository_count: 14
+- github_id: Greenipple
+  contributions: 118
+  repositories:
+  - managed-simple-data-exchanger-backend
+  repository_count: 1
+- github_id: mustax
+  contributions: 117
+  repositories:
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  repository_count: 2
+- github_id: Akshay-Chaudhari-BMW
+  contributions: 117
+  repositories:
+  - portal-backend
+  repository_count: 1
+- github_id: JaneMcBrain
+  contributions: 115
+  repositories:
+  - portal-frontend
+  - sldt-ontology-model
+  repository_count: 2
+- github_id: bs-sili
+  contributions: 114
+  repositories:
+  - sldt-bpn-discovery
+  - sldt-digital-twin-registry
+  - sldt-discovery-finder
+  - sldt-semantic-hub
+  repository_count: 4
+- github_id: aqsamuzaffar
+  contributions: 113
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: typecastcloud
+  contributions: 112
+  repositories:
+  - eclipse-tractusx.github.io
+  - portal
+  - portal-assets
+  - portal-backend
+  - portal-frontend
+  - portal-frontend-registration
+  - portal-iam
+  - portal-shared-components
+  - sd-factory
+  - ssi-credential-issuer
+  repository_count: 10
+- github_id: nhaenis
+  contributions: 107
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-ontology-model
+  - sldt-semantic-models
+  repository_count: 3
+- github_id: kelaja
+  contributions: 107
+  repositories:
+  - eclipse-tractusx.github.io
+  - sig-release
+  repository_count: 2
+- github_id: dblankevia
+  contributions: 107
+  repositories:
+  - traceability-foss
+  repository_count: 1
+- github_id: rainer-exxcellent
+  contributions: 102
+  repositories:
+  - bpdm
+  repository_count: 1
+- github_id: DiogoBoucaCTW
+  contributions: 100
+  repositories:
+  - managed-simple-data-exchanger-backend
+  repository_count: 1
+- github_id: fabiodmota
+  contributions: 98
+  repositories:
+  - bpdm
+  repository_count: 1
+- github_id: saudkhan116
+  contributions: 96
+  repositories:
+  - .eclipsefdn
+  - eclipse-tractusx.github.io
+  - managed-simple-data-exchanger
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  - tractus-x-umbrella
+  - tractusx-identityhub
+  - tractusx-sdk-services
+  repository_count: 8
+- github_id: oyo
+  contributions: 93
+  repositories:
+  - portal-assets
+  - portal-backend
+  - portal-frontend
+  - portal-frontend-registration
+  - portal-iam
+  repository_count: 5
+- github_id: jacewski-bosch
+  contributions: 91
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: MDSBarbosa
+  contributions: 91
+  repositories:
+  - sldt-digital-twin-registry
+  - tractusx-edc
+  - tractusx-sdk
+  repository_count: 3
+- github_id: Cvetanka-ZF
+  contributions: 90
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-ontology-model
+  - sldt-semantic-models
+  repository_count: 3
+- github_id: devajipatil
+  contributions: 84
+  repositories:
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  - tractusx-identityhub
+  repository_count: 3
+- github_id: ds-ext-bkepa
+  contributions: 84
+  repositories:
+  - traceability-foss
+  repository_count: 1
+- github_id: jzbmw
+  contributions: 82
+  repositories:
+  - .github
+  - eclipse-tractusx.github.io
+  - item-relationship-service
+  - traceability-foss
+  - tractus-x-umbrella
+  repository_count: 5
+- github_id: flarrinaga
+  contributions: 82
+  repositories:
+  - industry-core-hub
+  - tractusx-sdk
+  repository_count: 2
+- github_id: deep-patel-13
+  contributions: 82
+  repositories:
+  - portal-frontend
+  - portal-frontend-registration
+  repository_count: 2
+- github_id: ds-ashanmugavel
+  contributions: 82
+  repositories:
+  - traceability-foss
+  repository_count: 1
+- github_id: dg-tsy
+  contributions: 79
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: corinastolz
+  contributions: 76
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: kenobi79
+  contributions: 74
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: fty4
+  contributions: 71
+  repositories:
+  - charts
+  - tractus-x-umbrella
+  - tractusx-edc
+  repository_count: 3
+- github_id: ds-pweick
+  contributions: 69
+  repositories:
+  - item-relationship-service
+  - traceability-foss
+  repository_count: 2
+- github_id: birgitZF
+  contributions: 68
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: jonbckr
+  contributions: 67
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: maciej-kizlich
+  contributions: 65
+  repositories:
+  - item-relationship-service
+  - traceability-foss
+  repository_count: 2
+- github_id: AngelikaWittek
+  contributions: 62
+  repositories:
+  - eclipse-tractusx.github.io
+  - sig-infra
+  repository_count: 2
+- github_id: thackerronak
+  contributions: 60
+  repositories:
+  - portal-frontend
+  - portal-frontend-registration
+  - ssi-dim-wallet-stub
+  repository_count: 3
+- github_id: pkINOVIA
+  contributions: 59
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: LukasSchmetz
+  contributions: 59
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: bosserf
+  contributions: 59
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: AnuragNagpure
+  contributions: 59
+  repositories:
+  - portal
+  - portal-assets
+  - portal-backend
+  repository_count: 3
+- github_id: Alaitz1
+  contributions: 54
+  repositories:
+  - ssi-dim-wallet-stub
+  - tractus-x-umbrella
+  - tractusx-identityhub
+  repository_count: 3
+- github_id: dddenes
+  contributions: 52
+  repositories:
+  - .eclipsefdn
+  - tractusx-sdk-services
+  repository_count: 2
+- github_id: SMaierTSI
+  contributions: 52
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: PaMarzec
+  contributions: 51
+  repositories:
+  - puris
+  repository_count: 1
+- github_id: obalandi
+  contributions: 51
+  repositories:
+  - sldt-ontology-model
+  repository_count: 1
+- github_id: christianerhardt
+  contributions: 50
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: shahmargi12
+  contributions: 50
+  repositories:
+  - portal-frontend
+  - portal-frontend-registration
+  - portal-iam
+  - portal-shared-components
+  repository_count: 4
+- github_id: wahidulazam
+  contributions: 50
+  repositories:
+  - tractusx-identityhub
+  repository_count: 1
+- github_id: marcelruland
+  contributions: 48
+  repositories:
+  - eclipse-tractusx.github.io
+  - sig-architecture
+  - tractusx-identityhub
+  repository_count: 3
+- github_id: mrpeterbasista
+  contributions: 48
+  repositories:
+  - tractusx-sdk-services
+  repository_count: 1
+- github_id: cezaralexandremorais
+  contributions: 47
+  repositories:
+  - bpdm
+  repository_count: 1
+- github_id: gerbigf
+  contributions: 47
+  repositories:
+  - eclipse-tractusx.github.io
+  - tractusx-edc
+  - tractusx-sdk
+  - tractusx-sdk-services
+  repository_count: 4
+- github_id: tfjanjua
+  contributions: 46
+  repositories:
+  - portal
+  - portal-assets
+  - portal-backend
+  - portal-frontend
+  - portal-iam
+  repository_count: 5
+- github_id: tanweersalah
+  contributions: 45
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: fedornaz
+  contributions: 44
+  repositories:
+  - data-exchange-test-service
+  - managed-service-orchestrator
+  - managed-simple-data-exchanger-backend
+  - sd-factory
+  repository_count: 4
+- github_id: bcasparraysono
+  contributions: 44
+  repositories:
+  - portal-frontend
+  repository_count: 1
+- github_id: saadanzari
+  contributions: 43
+  repositories:
+  - eclipse-tractusx.github.io
+  - portal-assets
+  - portal-frontend
+  - portal-frontend-registration
+  - portal-shared-components
+  repository_count: 5
+- github_id: stiwan8020
+  contributions: 43
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: wehrstedt-jan
+  contributions: 42
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: yuchengluo1
+  contributions: 42
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: FlorianDue
+  contributions: 42
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: ds-asmierzchalski
+  contributions: 42
+  repositories:
+  - ssi-credential-issuer
+  - tractus-x-umbrella
+  - tractusx-edc-kafka-extension
+  - tractusx-sdk-services
+  repository_count: 4
+- github_id: klanir123
+  contributions: 41
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: ds-awahl
+  contributions: 41
+  repositories:
+  - item-relationship-service
+  - traceability-foss
+  - tractus-x-umbrella
+  - tractusx-edc-kafka-extension
+  repository_count: 4
+- github_id: FlorianPatzerC0d3
+  contributions: 40
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: rafaelmag110
+  contributions: 39
+  repositories:
+  - bpn-did-resolution-service
+  - tractusx-edc
+  - tutorial-resources
+  repository_count: 3
+- github_id: SSIRKC
+  contributions: 39
+  repositories:
+  - eclipse-tractusx.github.io
+  - portal-assets
+  - puris
+  - sig-security
+  repository_count: 4
+- github_id: maxim-bo
+  contributions: 39
+  repositories:
+  - eclipse-tractusx.github.io
+  - eclipse-tractusx.github.io.largefiles
+  - sldt-semantic-models
+  repository_count: 3
+- github_id: dhiren-singh-007
+  contributions: 39
+  repositories:
+  - portal
+  - portal-assets
+  - portal-backend
+  - portal-frontend
+  - ssi-credential-issuer
+  repository_count: 5
+- github_id: Unsharm
+  contributions: 37
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: MartinEnders
+  contributions: 37
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: afederl
+  contributions: 36
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: pathaniaaviX
+  contributions: 36
+  repositories:
+  - item-relationship-service
+  - traceability-foss
+  repository_count: 2
+- github_id: phumnaba
+  contributions: 36
+  repositories:
+  - managed-simple-data-exchanger-frontend
+  repository_count: 1
+- github_id: jimmarino
+  contributions: 35
+  repositories:
+  - bpn-did-resolution-service
+  - tractusx-edc
+  - tractusx-profiles
+  repository_count: 3
+- github_id: wern
+  contributions: 35
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: NandiniAnamaneni
+  contributions: 35
+  repositories:
+  - sd-factory
+  repository_count: 1
+- github_id: samuelroywork
+  contributions: 34
+  repositories:
+  - industry-core-hub
+  - tractusx-sdk
+  repository_count: 2
+- github_id: ds-agenz
+  contributions: 34
+  repositories:
+  - item-relationship-service
+  repository_count: 1
+- github_id: kunalgaurav-bmw
+  contributions: 34
+  repositories:
+  - portal-assets
+  - portal-frontend
+  - portal-shared-components
+  repository_count: 3
+- github_id: charmi-v
+  contributions: 34
+  repositories:
+  - portal-frontend
+  - portal-shared-components
+  repository_count: 2
+- github_id: sb3nz
+  contributions: 33
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: florianrusch-zf
+  contributions: 33
+  repositories:
+  - eclipse-tractusx.github.io
+  - sig-release
+  - sldt-digital-twin-registry
+  - tractusx-edc
+  repository_count: 4
+- github_id: DianaRenz
+  contributions: 33
+  repositories:
+  - portal-frontend
+  repository_count: 1
+- github_id: JordanGerada3
+  contributions: 32
+  repositories:
+  - portal-backend
+  - portal-frontend
+  - portal-frontend-registration
+  - portal-iam
+  - portal-shared-components
+  repository_count: 5
+- github_id: istvan-nagy-epam
+  contributions: 32
+  repositories:
+  - sldt-digital-twin-registry
+  repository_count: 1
+- github_id: ZazraltMagic
+  contributions: 32
+  repositories:
+  - sldt-ontology-model
+  repository_count: 1
+- github_id: netomi
+  contributions: 31
+  repositories:
+  - .eclipsefdn
+  - sig-release
+  repository_count: 2
+- github_id: pdequick
+  contributions: 31
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: c-r-b-9
+  contributions: 31
+  repositories:
+  - eclipse-tractusx.github.io
+  - tractusx-edc
+  repository_count: 2
+- github_id: eriksven
+  contributions: 31
+  repositories:
+  - sldt-digital-twin-registry
+  - sldt-semantic-hub
+  - sldt-semantic-models
+  repository_count: 3
+- github_id: HannesKrug
+  contributions: 30
+  repositories:
+  - eclipse-tractusx.github.io
+  - engineering-use-case-demonstrator
+  - sldt-semantic-models
+  - tractusx-sdk
+  repository_count: 4
+- github_id: Grameimi
+  contributions: 30
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: mlippai
+  contributions: 30
+  repositories:
+  - sd-factory
+  repository_count: 1
+- github_id: JulianSchererZF
+  contributions: 29
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: bmg13
+  contributions: 28
+  repositories:
+  - tractusx-edc
+  - tutorial-resources
+  repository_count: 2
+- github_id: manuela-parpineli
+  contributions: 27
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: estroem
+  contributions: 27
+  repositories:
+  - item-relationship-service
+  - traceability-foss
+  - tractus-x-umbrella
+  repository_count: 3
+- github_id: Usmanfee
+  contributions: 27
+  repositories:
+  - portal-frontend
+  - portal-shared-components
+  repository_count: 2
+- github_id: marvinhubl
+  contributions: 27
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: hemantxpatel
+  contributions: 27
+  repositories:
+  - tutorial-resources
+  repository_count: 1
+- github_id: bmunguli
+  contributions: 26
+  repositories:
+  - item-relationship-service
+  - sldt-digital-twin-registry
+  - sldt-semantic-hub
+  - traceability-foss
+  repository_count: 4
+- github_id: shubhamv-ss
+  contributions: 26
+  repositories:
+  - portal-frontend
+  - portal-frontend-registration
+  - portal-shared-components
+  repository_count: 3
+- github_id: ds-ext-akononenko
+  contributions: 26
+  repositories:
+  - traceability-foss
+  repository_count: 1
+- github_id: ClaudiaKilian
+  contributions: 25
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: sonama
+  contributions: 25
+  repositories:
+  - industry-core-hub
+  repository_count: 1
+- github_id: AjayRaturi123
+  contributions: 25
+  repositories:
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  repository_count: 2
+- github_id: f-zimmer
+  contributions: 25
+  repositories:
+  - puris
+  repository_count: 1
+- github_id: vasil-tenev
+  contributions: 24
+  repositories:
+  - sldt-digital-twin-registry
+  repository_count: 1
+- github_id: Frank-Globisch
+  contributions: 23
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: michaelschlacher2
+  contributions: 23
+  repositories:
+  - item-relationship-service
+  repository_count: 1
+- github_id: ds-kgassner
+  contributions: 23
+  repositories:
+  - item-relationship-service
+  repository_count: 1
+- github_id: timdahlmanns
+  contributions: 23
+  repositories:
+  - tractusx-edc
+  - tractusx-edc-dashboard
+  repository_count: 2
+- github_id: tobzahn
+  contributions: 22
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: anneramsauer
+  contributions: 22
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: florianstern
+  contributions: 22
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: hzierer
+  contributions: 21
+  repositories:
+  - .eclipsefdn
+  - eclipse-tractusx.github.io
+  - managed-service-orchestrator
+  - managed-simple-data-exchanger-backend
+  repository_count: 4
+- github_id: ChristophMarquardt
+  contributions: 21
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: ricogu
+  contributions: 21
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: ds-hzimmer
+  contributions: 21
+  repositories:
+  - eclipse-tractusx.github.io
+  - sig-release
+  repository_count: 2
+- github_id: alejandrogranizo
+  contributions: 20
+  repositories:
+  - industry-core-hub
+  - tractusx-sdk
+  repository_count: 2
+- github_id: PedroMPT
+  contributions: 20
+  repositories:
+  - managed-simple-data-exchanger-backend
+  repository_count: 1
+- github_id: LukasHeimann
+  contributions: 20
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: tbraun-zf
+  contributions: 20
+  repositories:
+  - traceability-foss
+  repository_count: 1
+- github_id: victorianitulescu
+  contributions: 19
+  repositories:
+  - tractusx-sdk
+  repository_count: 1
+- github_id: izuru0
+  contributions: 18
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: Martin0815bla
+  contributions: 18
+  repositories:
+  - eclipse-tractusx.github.io
+  - knowledge-agents
+  - knowledge-agents-aas-bridge
+  - knowledge-agents-edc
+  repository_count: 4
+- github_id: TobiasHamacherDLR
+  contributions: 18
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: tuncaytunc-zf
+  contributions: 18
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: manourym
+  contributions: 17
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: awellnitz-materna
+  contributions: 17
+  repositories:
+  - eclipse-tractusx.github.io
+  - tractusx-edc
+  repository_count: 2
+- github_id: borjakhet
+  contributions: 17
+  repositories:
+  - industry-core-hub
+  - tractusx-sdk
+  repository_count: 2
+- github_id: fatihayyildiz
+  contributions: 17
+  repositories:
+  - portal-backend
+  - portal-frontend
+  repository_count: 2
+- github_id: BenediktMuellerIML
+  contributions: 17
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: lanfrans
+  contributions: 16
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: JohannesARENA2036
+  contributions: 16
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: nikunj-maniya
+  contributions: 16
+  repositories:
+  - portal-frontend
+  - portal-shared-components
+  repository_count: 2
+- github_id: kchaudh1
+  contributions: 15
+  repositories:
+  - managed-simple-data-exchanger-backend
+  repository_count: 1
+- github_id: pratapipatelbcone
+  contributions: 15
+  repositories:
+  - tractusx-edc
+  - tutorial-resources
+  repository_count: 2
+- github_id: stephanzumkeller-capgemini
+  contributions: 14
+  repositories:
+  - industry-core-hub
+  - tractusx-sdk
+  repository_count: 2
+- github_id: sharathshivprasad
+  contributions: 14
+  repositories:
+  - managed-service-orchestrator
+  - sd-factory
+  repository_count: 2
+- github_id: OlgaIvkovic
+  contributions: 14
+  repositories:
+  - puris
+  repository_count: 1
+- github_id: DrDanielMetz
+  contributions: 13
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-digital-twin-registry
+  repository_count: 2
+- github_id: matgnt
+  contributions: 13
+  repositories:
+  - eclipse-tractusx.github.io
+  - tractusx-profiles
+  repository_count: 2
+- github_id: benno-z
+  contributions: 13
+  repositories:
+  - item-relationship-service
+  - traceability-foss
+  repository_count: 2
+- github_id: floriansommerraysono
+  contributions: 13
+  repositories:
+  - portal-frontend
+  repository_count: 1
+- github_id: Timothy-Ra
+  contributions: 13
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: JuttaRoh
+  contributions: 13
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: ronjaquensel
+  contributions: 13
+  repositories:
+  - tractus-x-umbrella
+  - tractusx-edc
+  - tractusx-edc-dashboard
+  repository_count: 3
+- github_id: mohan06-mbrd
+  contributions: 12
+  repositories:
+  - bpdm
+  repository_count: 1
+- github_id: Jarosch-Mitko
+  contributions: 12
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: eckardg
+  contributions: 12
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: jkbquabeck
+  contributions: 12
+  repositories:
+  - eclipse-tractusx.github.io
+  - tutorial-resources
+  repository_count: 2
+- github_id: leandro-cavalcante
+  contributions: 12
+  repositories:
+  - portal-backend
+  - portal-iam
+  - ssi-credential-issuer
+  repository_count: 3
+- github_id: sberkei
+  contributions: 12
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: heurtematte
+  contributions: 11
+  repositories:
+  - .eclipsefdn
+  repository_count: 1
+- github_id: dvg36
+  contributions: 11
+  repositories:
+  - eclipse-tractusx.github.io
+  - tractus-x-umbrella
+  repository_count: 2
+- github_id: tobikleinfrd
+  contributions: 11
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: BenjaminKotnik
+  contributions: 11
+  repositories:
+  - puris
+  repository_count: 1
+- github_id: stanfaldin
+  contributions: 10
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: sschul33
+  contributions: 10
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: prosonulhaque-tvs
+  contributions: 10
+  repositories:
+  - industry-core-hub
+  - ssi-credential-issuer
+  repository_count: 2
+- github_id: Wulghash
+  contributions: 10
+  repositories:
+  - managed-service-orchestrator
+  - sd-factory
+  repository_count: 2
+- github_id: Gins47
+  contributions: 10
+  repositories:
+  - managed-simple-data-exchanger-backend
+  repository_count: 1
+- github_id: Zied-Belkhiria-Mhp
+  contributions: 9
+  repositories:
+  - bpdm
+  - item-relationship-service
+  - managed-simple-data-exchanger-frontend
+  - portal-backend
+  - portal-frontend
+  - portal-frontend-registration
+  - sd-factory
+  repository_count: 7
+- github_id: stefanhuber
+  contributions: 9
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: wjost
+  contributions: 9
+  repositories:
+  - managed-service-orchestrator
+  - sd-factory
+  repository_count: 2
+- github_id: pablosec
+  contributions: 9
+  repositories:
+  - sig-security
+  - ssi-credential-issuer
+  repository_count: 2
+- github_id: correiaafonso12
+  contributions: 9
+  repositories:
+  - sldt-digital-twin-registry
+  - tractusx-edc
+  repository_count: 2
+- github_id: blazkepa
+  contributions: 9
+  repositories:
+  - traceability-foss
+  repository_count: 1
+- github_id: kkotowiczz
+  contributions: 9
+  repositories:
+  - tractus-x-umbrella
+  - tractusx-edc
+  repository_count: 2
+- github_id: gerlitmcoding
+  contributions: 8
+  repositories:
+  - bpdm
+  repository_count: 1
+- github_id: dilip-dhankecha
+  contributions: 8
+  repositories:
+  - bpdm
+  repository_count: 1
+- github_id: cwBMW
+  contributions: 8
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: VincentMalik
+  contributions: 8
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: MaximilianHauer
+  contributions: 8
+  repositories:
+  - portal-assets
+  - portal-iam
+  - sig-release
+  - ssi-credential-issuer
+  repository_count: 4
+- github_id: mittalVaghela
+  contributions: 8
+  repositories:
+  - sldt-semantic-hub
+  repository_count: 1
+- github_id: mthiers
+  contributions: 8
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: krunal-chauhan-1705
+  contributions: 8
+  repositories:
+  - ssi-dim-wallet-stub
+  repository_count: 1
+- github_id: ds-jleyh
+  contributions: 8
+  repositories:
+  - traceability-foss
+  repository_count: 1
+- github_id: saschaisele-zf
+  contributions: 8
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: KilianHaag
+  contributions: 8
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: reginePrivat
+  contributions: 7
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: MonikaJacobsen
+  contributions: 7
+  repositories:
+  - eclipse-tractusx.github.io
+  - sig-release
+  repository_count: 2
+- github_id: rogocoffee
+  contributions: 7
+  repositories:
+  - item-relationship-service
+  - traceability-foss
+  - tractus-x-umbrella
+  repository_count: 3
+- github_id: sengfer-ISST
+  contributions: 7
+  repositories:
+  - puris
+  repository_count: 1
+- github_id: szymonkowalczykzf
+  contributions: 6
+  repositories:
+  - bpdm
+  - portal-assets
+  - puris
+  repository_count: 3
+- github_id: LucasFochler
+  contributions: 6
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: borisschnebel
+  contributions: 6
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: mm73628486283
+  contributions: 6
+  repositories:
+  - eclipse-tractusx.github.io
+  - sig-security
+  repository_count: 2
+- github_id: drhansbeck
+  contributions: 6
+  repositories:
+  - eclipse-tractusx.github.io
+  - portal-frontend
+  - sldt-digital-twin-registry
+  - tractusx-edc
+  repository_count: 4
+- github_id: poojapatel23
+  contributions: 6
+  repositories:
+  - item-relationship-service
+  - traceability-foss
+  repository_count: 2
+- github_id: jakoballgaier
+  contributions: 6
+  repositories:
+  - puris
+  repository_count: 1
+- github_id: DanielSteffenReichert
+  contributions: 6
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: sceronik-qm
+  contributions: 6
+  repositories:
+  - traceability-foss
+  repository_count: 1
+- github_id: web-flow
+  contributions: 6
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: tudorfrincu1
+  contributions: 6
+  repositories:
+  - tractusx-testlab
+  repository_count: 1
+- github_id: FrankSchnicke
+  contributions: 5
+  repositories:
+  - sldt-digital-twin-registry
+  repository_count: 1
+- github_id: Shiraiku
+  contributions: 5
+  repositories:
+  - sldt-digital-twin-registry
+  repository_count: 1
+- github_id: InRiPa
+  contributions: 5
+  repositories:
+  - ssi-dim-wallet-stub
+  - tractus-x-umbrella
+  repository_count: 2
+- github_id: kss682
+  contributions: 5
+  repositories:
+  - tractus-x-umbrella
+  repository_count: 1
+- github_id: juliapampus
+  contributions: 5
+  repositories:
+  - tractusx-edc
+  - tractusx-edc-dashboard
+  repository_count: 2
+- github_id: ds-sdileo
+  contributions: 5
+  repositories:
+  - tractusx-sdk-services
+  repository_count: 1
+- github_id: ieuna
+  contributions: 5
+  repositories:
+  - tutorial-resources
+  repository_count: 1
+- github_id: fredg02
+  contributions: 4
+  repositories:
+  - .eclipsefdn
+  repository_count: 1
+- github_id: kunyao-cofinity-x
+  contributions: 4
+  repositories:
+  - bpdm
+  repository_count: 1
+- github_id: lkschl
+  contributions: 4
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: jurk01
+  contributions: 4
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: johannes-wunderlich
+  contributions: 4
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: boix2
+  contributions: 4
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: olexiy-kupriyanov
+  contributions: 4
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: klaudiaZF
+  contributions: 4
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: MoritzDieckmann
+  contributions: 4
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: hokonohara
+  contributions: 4
+  repositories:
+  - eclipse-tractusx.github.io
+  - industry-core-hub
+  repository_count: 2
+- github_id: ybidois
+  contributions: 4
+  repositories:
+  - eclipse-tractusx.github.io
+  - portal-frontend
+  repository_count: 2
+- github_id: petyog
+  contributions: 4
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-models
+  repository_count: 2
+- github_id: ds-sschalkowski
+  contributions: 4
+  repositories:
+  - item-relationship-service
+  - traceability-foss
+  repository_count: 2
+- github_id: CXkreuz
+  contributions: 4
+  repositories:
+  - managed-simple-data-exchanger-backend
+  - traceability-foss
+  repository_count: 2
+- github_id: MarcMaron
+  contributions: 4
+  repositories:
+  - portal-assets
+  repository_count: 1
+- github_id: WaseemAbbasCofinityX
+  contributions: 4
+  repositories:
+  - portal-frontend
+  - portal-shared-components
+  repository_count: 2
+- github_id: peissing
+  contributions: 4
+  repositories:
+  - sldt-digital-twin-registry
+  repository_count: 1
+- github_id: andreas-hutter
+  contributions: 4
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: hoffmanndoubleslash
+  contributions: 4
+  repositories:
+  - tractus-x-umbrella
+  - tractusx-edc-kafka-extension
+  repository_count: 2
+- github_id: denisneuling
+  contributions: 4
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: mbarbero
+  contributions: 3
+  repositories:
+  - .eclipsefdn
+  repository_count: 1
+- github_id: eclipsewebmaster
+  contributions: 3
+  repositories:
+  - .github
+  - knowledge-agents
+  - tractus-x-release
+  repository_count: 3
+- github_id: seb-l0
+  contributions: 3
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: FabianKentsch
+  contributions: 3
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: obermeier
+  contributions: 3
+  repositories:
+  - eclipse-tractusx.github.io
+  - sldt-semantic-hub
+  - traceability-foss
+  repository_count: 3
+- github_id: DominikKuebel-ARENA2036
+  contributions: 3
+  repositories:
+  - managed-simple-data-exchanger-backend
+  - managed-simple-data-exchanger-frontend
+  repository_count: 2
+- github_id: johanneskueffner
+  contributions: 3
+  repositories:
+  - portal-assets
+  repository_count: 1
+- github_id: Leon-Gr
+  contributions: 3
+  repositories:
+  - portal-assets
+  - portal-frontend
+  repository_count: 2
+- github_id: irinamesh
+  contributions: 3
+  repositories:
+  - portal-assets
+  - portal-backend
+  repository_count: 2
+- github_id: christianraysono
+  contributions: 3
+  repositories:
+  - portal-frontend
+  repository_count: 1
+- github_id: dirk-qualisys
+  contributions: 3
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: domreuter
+  contributions: 3
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: farhin23
+  contributions: 3
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: ciprian-nicuta
+  contributions: 3
+  repositories:
+  - tutorial-resources
+  repository_count: 1
+- github_id: ravinderkumarsap
+  contributions: 3
+  repositories:
+  - tutorial-resources
+  repository_count: 1
+- github_id: pstankie
+  contributions: 2
+  repositories:
+  - .eclipsefdn
+  repository_count: 1
+- github_id: sarahmater
+  contributions: 2
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: Christoph911
+  contributions: 2
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: BirgitBoss
+  contributions: 2
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: annaslangdon
+  contributions: 2
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: BenediktSR
+  contributions: 2
+  repositories:
+  - eclipse-tractusx.github.io
+  - tractusx-edc
+  repository_count: 2
+- github_id: dhriczko
+  contributions: 2
+  repositories:
+  - managed-service-orchestrator
+  - sd-factory
+  repository_count: 2
+- github_id: PreetiKashyap-bmw
+  contributions: 2
+  repositories:
+  - portal-backend
+  repository_count: 1
+- github_id: wira-mms
+  contributions: 2
+  repositories:
+  - portal-backend
+  repository_count: 1
+- github_id: gobica
+  contributions: 2
+  repositories:
+  - puris
+  repository_count: 1
+- github_id: MehranRoshandel
+  contributions: 2
+  repositories:
+  - sd-factory
+  repository_count: 1
+- github_id: hgascon
+  contributions: 2
+  repositories:
+  - sldt-digital-twin-registry
+  repository_count: 1
+- github_id: fschoeppenthau
+  contributions: 2
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: jigargadhiya-ss
+  contributions: 2
+  repositories:
+  - ssi-dim-wallet-stub
+  repository_count: 1
+- github_id: scode-cpu
+  contributions: 2
+  repositories:
+  - ssi-dim-wallet-stub
+  repository_count: 1
+- github_id: Anacin
+  contributions: 2
+  repositories:
+  - traceability-foss
+  repository_count: 1
+- github_id: mrodriguez-LKS
+  contributions: 2
+  repositories:
+  - tractus-x-umbrella
+  repository_count: 1
+- github_id: th0masgl
+  contributions: 2
+  repositories:
+  - tractus-x-umbrella
+  - tractusx-edc
+  repository_count: 2
+- github_id: drandarov-io
+  contributions: 2
+  repositories:
+  - tractus-x-umbrella
+  - tractusx-edc
+  repository_count: 2
+- github_id: ribafish
+  contributions: 2
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: BrunoMiguelNogueira
+  contributions: 2
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: lholthof
+  contributions: 2
+  repositories:
+  - tractusx-edc
+  - tractusx-profiles
+  repository_count: 2
+- github_id: felipebustillo
+  contributions: 2
+  repositories:
+  - tractusx-identityhub
+  repository_count: 1
+- github_id: SebastianPellkofer
+  contributions: 1
+  repositories:
+  - .eclipsefdn
+  repository_count: 1
+- github_id: Korbinian-Hutter
+  contributions: 1
+  repositories:
+  - bpdm
+  repository_count: 1
+- github_id: Sebastian-Wurm
+  contributions: 1
+  repositories:
+  - bpdm
+  repository_count: 1
+- github_id: AmirMattarx
+  contributions: 1
+  repositories:
+  - bpdm
+  repository_count: 1
+- github_id: fgazer94
+  contributions: 1
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: nirschlk
+  contributions: 1
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: SebastianOpriel
+  contributions: 1
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: mmaeffert
+  contributions: 1
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: hilariosiemens
+  contributions: 1
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: FraSta-d
+  contributions: 1
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: ebroda
+  contributions: 1
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: Arnd-go
+  contributions: 1
+  repositories:
+  - eclipse-tractusx.github.io
+  repository_count: 1
+- github_id: inakipaz
+  contributions: 1
+  repositories:
+  - industry-core-hub
+  repository_count: 1
+- github_id: swleeSTrain
+  contributions: 1
+  repositories:
+  - industry-core-hub
+  repository_count: 1
+- github_id: kastade
+  contributions: 1
+  repositories:
+  - managed-service-orchestrator
+  repository_count: 1
+- github_id: khanowaisarena
+  contributions: 1
+  repositories:
+  - managed-simple-data-exchanger
+  repository_count: 1
+- github_id: BahaaZiadah
+  contributions: 1
+  repositories:
+  - managed-simple-data-exchanger-frontend
+  repository_count: 1
+- github_id: danakoch23
+  contributions: 1
+  repositories:
+  - portal-assets
+  repository_count: 1
+- github_id: juliajeroch
+  contributions: 1
+  repositories:
+  - portal-assets
+  repository_count: 1
+- github_id: shumaila-malik-cofinity-x
+  contributions: 1
+  repositories:
+  - portal-backend
+  repository_count: 1
+- github_id: SanaSalem01
+  contributions: 1
+  repositories:
+  - portal-frontend
+  repository_count: 1
+- github_id: rmarting
+  contributions: 1
+  repositories:
+  - portal-iam
+  repository_count: 1
+- github_id: arnabcx
+  contributions: 1
+  repositories:
+  - portal-iam
+  repository_count: 1
+- github_id: Akash-IAV
+  contributions: 1
+  repositories:
+  - puris
+  repository_count: 1
+- github_id: M-Fitzke
+  contributions: 1
+  repositories:
+  - puris
+  repository_count: 1
+- github_id: Rosinski-IVI
+  contributions: 1
+  repositories:
+  - puris
+  repository_count: 1
+- github_id: denis8020
+  contributions: 1
+  repositories:
+  - puris
+  repository_count: 1
+- github_id: daniil-pankratov
+  contributions: 1
+  repositories:
+  - sd-factory
+  repository_count: 1
+- github_id: Sujit-Kumar-ZF
+  contributions: 1
+  repositories:
+  - sldt-semantic-models
+  repository_count: 1
+- github_id: abasurtogobtech
+  contributions: 1
+  repositories:
+  - tractus-x-umbrella
+  repository_count: 1
+- github_id: nikolaypeshev-86
+  contributions: 1
+  repositories:
+  - tractus-x-umbrella
+  repository_count: 1
+- github_id: lukaszkampl
+  contributions: 1
+  repositories:
+  - tractus-x-umbrella
+  repository_count: 1
+- github_id: oswaldo-montenegro-codecentric
+  contributions: 1
+  repositories:
+  - tractus-x-umbrella
+  repository_count: 1
+- github_id: mabige
+  contributions: 1
+  repositories:
+  - tractus-x-umbrella
+  repository_count: 1
+- github_id: adtorales
+  contributions: 1
+  repositories:
+  - tractus-x-umbrella-iac
+  repository_count: 1
+- github_id: cjtorales
+  contributions: 1
+  repositories:
+  - tractus-x-umbrella-iac
+  repository_count: 1
+- github_id: Zead-Alshu22
+  contributions: 1
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: theobisproject
+  contributions: 1
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: Moritz72
+  contributions: 1
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: git-masoud
+  contributions: 1
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: zub4t
+  contributions: 1
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: marctuerke
+  contributions: 1
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: maciej-umanski
+  contributions: 1
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: konradge
+  contributions: 1
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: HKit-HTW
+  contributions: 1
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: gcs14
+  contributions: 1
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: DominikPinsel
+  contributions: 1
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: DanielaWuensch
+  contributions: 1
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: danielkenji01
+  contributions: 1
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: Brijeshthummar02
+  contributions: 1
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: ipa-big
+  contributions: 1
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: ayhanmesin-zf
+  contributions: 1
+  repositories:
+  - tractusx-edc
+  repository_count: 1
+- github_id: krah034
+  contributions: 1
+  repositories:
+  - tractusx-identityhub
+  repository_count: 1
+- github_id: M-Busk
+  contributions: 1
+  repositories:
+  - tractusx-identityhub
+  repository_count: 1
+- github_id: yuri1969
+  contributions: 1
+  repositories:
+  - tractusx-sdk
+  repository_count: 1
+- github_id: ds-eschaeffer
+  contributions: 1
+  repositories:
+  - tractusx-sdk-services
+  repository_count: 1
+- github_id: GitFlars
+  contributions: 1
+  repositories:
+  - tractusx-sdk-services
+  repository_count: 1
+- github_id: wadahiro
+  contributions: 1
+  repositories:
+  - tutorial-resources
+  repository_count: 1
+- github_id: S3bb1
+  contributions: 1
+  repositories:
+  - tutorial-resources
+  repository_count: 1
+- github_id: moiarayam
+  contributions: 1
+  repositories:
+  - tutorial-resources
+  repository_count: 1

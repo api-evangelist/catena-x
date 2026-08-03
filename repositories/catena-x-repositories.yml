@@ -1,0 +1,181 @@
+generated: '2026-08-03'
+method: searched
+source: https://github.com/catenax-eV
+type: Repositories
+organization: catenax-eV
+summary:
+  total: 14
+  archived: 0
+  by_maturity:
+    unclassified: 13
+    governance: 1
+repositories:
+- name: .github
+  url: https://github.com/catenax-eV/.github
+  description: null
+  maturity: governance
+  stars: 0
+  forks: 0
+  open_issues: 1
+  archived: false
+  created: '2024-05-07'
+  updated: '2026-05-11'
+  license: null
+  topics: []
+- name: catenax-ev.github.io
+  url: https://github.com/catenax-eV/catenax-ev.github.io
+  description: null
+  maturity: unclassified
+  stars: 13
+  forks: 17
+  open_issues: 12
+  archived: false
+  created: '2024-06-12'
+  updated: '2026-07-28'
+  license: NOASSERTION
+  topics: []
+- name: cx-odrl-profile
+  url: https://github.com/catenax-eV/cx-odrl-profile
+  description: Contains the Catena-X ODRL-Profile and the additional contract modules in form of leftOperands,
+    rightOperands and further details to use ODRL in Catena-X.
+  maturity: unclassified
+  stars: 10
+  forks: 4
+  open_issues: 4
+  archived: false
+  created: '2024-01-19'
+  updated: '2026-06-26'
+  license: CC-BY-4.0
+  topics: []
+- name: cx-resources
+  url: https://github.com/catenax-eV/cx-resources
+  description: null
+  maturity: unclassified
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  created: '2024-06-06'
+  updated: '2024-10-23'
+  license: null
+  topics: []
+- name: example-edc-setup
+  url: https://github.com/catenax-eV/example-edc-setup
+  description: null
+  maturity: unclassified
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  created: '2024-09-02'
+  updated: '2024-09-17'
+  license: null
+  topics: []
+- name: infrastructure-tools
+  url: https://github.com/catenax-eV/infrastructure-tools
+  description: This repository holds a set of tools which might be useful for the product-teams
+  maturity: unclassified
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  created: '2024-06-27'
+  updated: '2024-07-05'
+  license: null
+  topics: []
+- name: policy-hub
+  url: https://github.com/catenax-eV/policy-hub
+  description: Policy Hub
+  maturity: unclassified
+  stars: 1
+  forks: 0
+  open_issues: 0
+  archived: false
+  created: '2024-10-02'
+  updated: '2024-12-05'
+  license: Apache-2.0
+  topics: []
+- name: portal
+  url: https://github.com/catenax-eV/portal
+  description: Portal - Helm charts
+  maturity: unclassified
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  created: '2024-12-04'
+  updated: '2025-02-12'
+  license: Apache-2.0
+  topics: []
+- name: portal-iam
+  url: https://github.com/catenax-eV/portal-iam
+  description: IAM - Keycloak instances
+  maturity: unclassified
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  created: '2024-12-04'
+  updated: '2024-12-10'
+  license: Apache-2.0
+  topics: []
+- name: ssi-authority-schema-registry
+  url: https://github.com/catenax-eV/ssi-authority-schema-registry
+  description: SSI Authority & Schema Registry
+  maturity: unclassified
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  created: '2024-10-02'
+  updated: '2024-12-10'
+  license: Apache-2.0
+  topics: []
+- name: ssi-credential-issuer
+  url: https://github.com/catenax-eV/ssi-credential-issuer
+  description: SSI Credential Issuer
+  maturity: unclassified
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  created: '2024-10-01'
+  updated: '2024-12-11'
+  license: Apache-2.0
+  topics: []
+- name: ssi-dim-middle-layer
+  url: https://github.com/catenax-eV/ssi-dim-middle-layer
+  description: Integration layer between DIM solution and Tractus-X Portal.
+  maturity: unclassified
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  created: '2024-10-14'
+  updated: '2025-03-11'
+  license: Apache-2.0
+  topics: []
+- name: tractusx-sdk-services
+  url: https://github.com/catenax-eV/tractusx-sdk-services
+  description: Catena-X Test Bed Open Source Module
+  maturity: unclassified
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  created: '2025-10-17'
+  updated: '2026-03-26'
+  license: Apache-2.0
+  topics: []
+- name: w3id.org
+  url: https://github.com/catenax-eV/w3id.org
+  description: Website source code for w3id.org.
+  maturity: unclassified
+  stars: 1
+  forks: 0
+  open_issues: 0
+  archived: false
+  created: '2024-03-07'
+  updated: '2024-03-13'
+  license: null
+  topics: []
