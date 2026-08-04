@@ -1,5 +1,47 @@
 # Catena-X (catena-x)
 
+<!-- API-EVANGELIST-PROVENANCE:BEGIN -->
+> ### About this repository
+>
+> **This is not our API.** This repository is an independent, third-party profile of a company's
+> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
+> API Evangelist does not operate, host, resell, or support this company's APIs, and is not
+> affiliated with or endorsed by the company unless stated on the profile.
+>
+> **Where the information came from.** Everything here is assembled from material a member of the
+> public can reach with a browser and no credentials — the company's own website, developer portal
+> and documentation, the specifications it publishes for public use (OpenAPI, AsyncAPI, JSON Schema,
+> `apis.json`, `llms.txt` and similar), its public repositories, and its public status, pricing and
+> changelog pages. **Nothing here is obtained by breaching a system, defeating an access control, or
+> using credentials of any kind.**
+>
+> **The rating is an independent assessment.** The Kin Score and Agent Readiness rating are
+> independently calculated scores of a company's *public* API artifacts, produced by API Evangelist
+> against a published rubric. They are not certifications, endorsements, security assessments, or
+> audits, and they score published artifacts — not the quality, safety, or security of the software.
+>
+> **Corrections, re-scores, and removal are free.** No partnership, contract, or purchase is
+> required, and you do not need to justify the request.
+>
+> - **Something wrong?** Open an issue on this repository, or email
+>   [info@apievangelist.com](mailto:info@apievangelist.com).
+> - **Published something new?** Ask for a re-score and we will re-run the rating.
+> - **Want the listing taken down?** Say so and we will honor it. The profile is reduced to your
+>   company name, a factual description, and a link to your own site, and the company is recorded as
+>   **unrated** — never scored zero for having asked.
+>
+> **Response times.** Acknowledgement within **one business day**; removal or restriction within
+> **two business days**; corrections and re-scores within **five business days**.
+>
+> **On a security or compliance team?** Email
+> [info@apievangelist.com](mailto:info@apievangelist.com) with *security* in the subject line and
+> you will get a person, not a form. We will tell you exactly which public URLs this profile was
+> built from so your team can see the same surface we did, and we will take the listing down on
+> request while you work through it.
+>
+> Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
+<!-- API-EVANGELIST-PROVENANCE:END -->
+
 Catena-X is the automotive industry's data space standard, published by Catena-X Automotive Network e.V. — a non-commercial German registered association founded on 15 May 2021 by BMW, Mercedes-Benz, Volkswagen, Bosch, SAP, Siemens, Schaeffler, ZF, BASF, Henkel, Deutsche Telekom and Fraunhofer, with backing from the German Federal Ministry for Economic Affairs and Climate Action. It publishes a numbered CX-xxxx library of 77 standards covering how a supply chain exchanges part data, carbon footprints, quality records, demand and capacity signals and digital product passports without any participant surrendering its data to a central platform. Standards move forward together in named releases — Jupiter, Io, Saturn, Titan — gated by a Technical Committee for Standardization, and conformance is certified by nominated third-party assessment bodies including TÜV Rheinland and TÜV SÜD. The reference implementation is open source as Eclipse Tractus-X, and the network is operated commercially by Cofinity-X. It is the most institutionally complete industry API standard in Europe, and the one whose endpoints an outside developer can never call: in a data space every participant runs its own connector and registry, so there is nothing to call until you are onboarded, credentialed and certified.
 
 **APIs.json:** [https://raw.githubusercontent.com/api-evangelist/catena-x/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/catena-x/refs/heads/main/apis.yml)
