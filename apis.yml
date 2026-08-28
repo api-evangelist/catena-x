@@ -33,6 +33,18 @@ tags:
 - Supply Chain
 - Tractus-X
 kind: standard
+deliveryModel:
+  model: unknown
+  license: Intellectual Property Regulations
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - license
+  generated: '2026-08-28'
+  method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/catena-x.png
 access: 3rd-Party
 created: '2026-08-03'
