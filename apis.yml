@@ -56,6 +56,8 @@ x-category: Consortium
 x-host: Catena-X Automotive Network e.V.
 x-host-structure: Registered association (e.V.), Germany
 common:
+- type: Website
+  url: https://www.catena-x.net/
 - type: Portal
   url: https://catena-x.net/
 - type: Specification
